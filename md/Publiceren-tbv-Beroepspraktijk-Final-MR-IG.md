@@ -319,7 +319,7 @@ de verschillende kenmerken van praktijkgericht onderzoek die zojuist
 behandeld zijn:
 
   **Verschillen in toegepast onderzoek**
-  Item 							 Van		
+  **Item**						 **Van**
   ---------------------------- ----------------- ---------------------
   Toon van publicaties			 Fundamenteel
   Relatie tot bedrijfsleven	 In opdracht van
