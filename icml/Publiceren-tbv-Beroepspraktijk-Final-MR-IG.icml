@@ -829,11 +829,16 @@
   <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Van Tot</Content>
+        <Content>Van</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Tot</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
@@ -845,11 +850,16 @@
   <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Fundamenteel Toegepast</Content>
+        <Content>Fundamenteel</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Toegepast</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
@@ -861,27 +871,37 @@
   <Cell Name="1:2" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>In opdracht van In samenwerking met</Content>
+        <Content>In opdracht van</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>In samenwerking met</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:3" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Voornaamste publiek Onde</Content>
+        <Content>Voornaamste publiek</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:3" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>rzoekers Professionals</Content>
+        <Content>Onderzoekers</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:3" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Professionals</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:4" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
@@ -893,27 +913,37 @@
   <Cell Name="1:4" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Gesloten Open</Content>
+        <Content>Gesloten</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:4" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Open</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:5" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Vorm Tekst</Content>
+        <Content>Vorm</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:5" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; CenterAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Multimediaal</Content>
+        <Content>Tekst</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="2:5" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Multimediaal</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
 </Table>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
