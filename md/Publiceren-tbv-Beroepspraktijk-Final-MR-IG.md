@@ -555,7 +555,7 @@ maken. Andere voorbeelden van niet-tekstuele output zijn bijvoorbeeld
 tools, code en prototypes zoals het Citizen Data Lab en het MediaLAB ze
 ontwikkelen.
 
-![](media/image2.jpeg)Wat betreft de vorm van de informatie komt het van
+Wat betreft de vorm van de informatie komt het vanzelf
 pas te denken in verschillende lagen, zoals op Surf Space[^22] door
 gastcolumnist Herman van den Bosch beargumenteerd is. Hij geeft aan dat
 voor lezers die nieuwe kennis praktisch willen inzetten traditionele
@@ -569,8 +569,9 @@ kan hij/zij daarbij de discussie aangaan met anderen. Alleen wanneer de
 gebruiker daadwerkelijk geïnteresseerd is kan deze op eigen initiatief
 doorklikken naar diepere, meer genuanceerde lagen (Van den Bosch).
 
-Gelaagde publicatie zoals voorgesteld door Herman van den Bosch. Bron
-van figuur: Van den Bosch, 2015.
+![](imgs/VanDenBosch_piramide-van-oorspronkelijkheid.jpg)
+*Gelaagde publicatie zoals voorgesteld door Herman van den Bosch. Bron
+van figuur: Van den Bosch, 2015.*
 
 Zoals de professionals aangeven hoeft de traditionele vorm van
 onderzoekspublicaties niet te verdwijnen. Het wordt zelfs op prijs
@@ -614,105 +615,105 @@ vaak deze geciteerd wordt.
 
 ## <span id="ch06-00"></span>6. Bibliografie
 
-> Aan de Brugh, Marcel. “De Chaos van Open Access.” *NRC.* NRC Media, 10
-> Januari 2015. Web. 19 Oktober 2015.
-> &lt;<http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804>&gt;.
->
-> Bierens, Gerard en Desirée van den Bergh. "HBO Kennisbank, Onmisbare
-> Schakel 2.0." In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
-> SURFfoundation: Utrecht, 2011.
->
-> Bruins, Eppo. "Uitgeteld." In: Waardevol. Indicatoren voor
-> Valorisatie. Landelijke Commissie Valorisatie. Utrecht, 2011.
+Aan de Brugh, Marcel. “De Chaos van Open Access.” *NRC.* NRC Media, 10
+Januari 2015. Web. 19 Oktober 2015.
+&lt;<http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804>&gt;.
+
+Bierens, Gerard en Desirée van den Bergh. "HBO Kennisbank, Onmisbare
+Schakel 2.0." In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
+SURFfoundation: Utrecht, 2011.
+
+Bruins, Eppo. "Uitgeteld." In: Waardevol. Indicatoren voor
+Valorisatie. Landelijke Commissie Valorisatie. Utrecht, 2011.
 
 CREATE-IT. "Achtergrond." *Hogeschool van Amsterdam.* 15 Oktober 2015.
 Web. 2 December 2015.
 
-> Hahn, Karla, Charles Lowry, Clifford Lynch and David Shulenberger.
-> "The University's Role in the Dissemination of Research and
-> Scholarship - A Call to Action." *Association of Research Libraries.*
-> Washington, 2009.
->
-> Hall, Ralph. *Applied Social Research. Planning, Designing and
-> Conducting Real-World Research.* Melbourne, Macmillan Education AU,
-> 2008.
->
-> Hogeschool van Amsterdam. "Jaarverslag 2014." *Hogeschool van
-> Amsterdam.* 24 Juni 2015.
->
-> Jonge Akademie, De. *Kennis over Publiceren.* Ed. Jeroen Salman,
-> Maarten Kleinhans en Dolf Weijers, 2012.
->
-> Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. "Wat is
-> Open Access." *Open Access.nl.* Web. 9 December 2015.
-> &lt;http://www.openaccess.nl/nl/wat-is-open-access&gt;.
->
-> Landelijke Commissie Valorisatie. *Waardevol. Indicatoren voor
-> Valorisatie.* Rathenau Instituut: Den Haag en Technologiestichting
-> STW: Utrecht, 2011.
->
-> Ministerie van Onderwijs, Cultuur en Wetenschap. "Kabinetsplannen
-> Wetenschap 2015-2025." *Rijksoverheid.* Web. 13 December 2015.
-> &lt;https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025&gt;.
->
-> Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. "Call for
-> Proposals. RAAK-mkb." *Nationaal Regieorgaan Praktijkgericht Onderzoek
-> SIA.* Juli 2015.
->
-> Nentwich, Michael, and René König. "Academia Goes Facebook? The
-> Potential of Social Network Sites in the Scholarly Realm." *Opening
-> Science*. Ed. Sönke Bartling and Sascha Friesike. New York: Springer
-> International, 2014. p. 107-124.
->
-> Onderwijs en Onderzoek /O2. "Format en Toelichting bij de HvA
-> Indicatoren voor Praktijkgericht Onderzoek. Jaarverslag 2014."
-> *Hogeschool van Amsterdam.* 2015.
->
-> ---. "Strategisch Onderzoeksbeleid 2015-2020." *Hogeschool van
-> Amsterdam.* 2015
->
-> Priem, Jason, Paul Groth and Dario Taraborelli. "The Altmetrics
-> Collection." *PLos ONE* 7(11), 2012.
->
-> Puschman, Cornelius. “(Micro)Blogging Science? Notes on Potentials and
-> Constraints of New Forms of Scholarly Communication.” *Opening
-> Science.* Ed. Sönke Bartling and Sascha Friesike. New York: Springer
-> International, 2014. p. 89-106.
->
-> Snijders, Raymond. “Over Big Deals, Open Access en de onderhandelingen
-> tussen Elsevier en de universiteiten.” *Vakblog. Werken met
-> Informatie.* Wordpress, 04 November 2014. Web. 19 Oktober 2015.
-> &lt;<http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/>&gt;
->
-> SURFfoundation. “Kennis van én voor de praktijk.” *Surf Kennisbank.*
-> 10 Augustus 2010. Web. 20 Oktober 2015.
-> &lt;<https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf>&gt;.
->
-> Terpstra, Doekle en Johannes van der Vos. "Open Access in het HBO: 'OA
-> Modus 2.0'?" In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
-> SURFfoundation: Utrecht, 2011.
->
-> Van den Bosch, Herman. “Web met de Publicatie.” *SURF Space.* SURF, 15
-> Februari 2015. Web. 20 Oktober 2015.
-> &lt;<https://www.surfspace.nl/column/109-weg-met-de-publicatie/>&gt;.
->
-> Van de Wijngaart, Aad. "Kennis van én voor de Praktijk." In: *Stromen
-> van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation: Utrecht,
-> 2011.
->
-> Van Vliet, Harry. “Lectoraten als *third spaces*.” *HO Management*.
-> Issue: December (2011): p. 20-23.
->
-> Verbruggen, Erwin, Johan Oomen en Eggo Müller. “Bringing Europe’s
-> Audiovisual Heritage Online: EUScreenXL.” *IASA Journal.* Issue: no.
-> 42 (January 2014): p. 54-60.
->
-> Vereniging Hogescholen. "Brancheprotocol Kwaliteitszorg Onderzoek
-> (BKO) 2009-2015." *Vereniging Hogescholen.* Oktober 2007.
->
-> Wolters, Pia en Lianne van Elk. "Open Output - Sluitend Systeem." In:
-> *Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
-> Utrecht, 2011.
+Hahn, Karla, Charles Lowry, Clifford Lynch and David Shulenberger.
+"The University's Role in the Dissemination of Research and
+Scholarship - A Call to Action." *Association of Research Libraries.*
+Washington, 2009.
+
+Hall, Ralph. *Applied Social Research. Planning, Designing and
+Conducting Real-World Research.* Melbourne, Macmillan Education AU,
+2008.
+
+Hogeschool van Amsterdam. "Jaarverslag 2014." *Hogeschool van
+Amsterdam.* 24 Juni 2015.
+
+Jonge Akademie, De. *Kennis over Publiceren.* Ed. Jeroen Salman,
+Maarten Kleinhans en Dolf Weijers, 2012.
+
+Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. "Wat is
+Open Access." *Open Access.nl.* Web. 9 December 2015.
+&lt;http://www.openaccess.nl/nl/wat-is-open-access&gt;.
+
+Landelijke Commissie Valorisatie. *Waardevol. Indicatoren voor
+Valorisatie.* Rathenau Instituut: Den Haag en Technologiestichting
+STW: Utrecht, 2011.
+
+Ministerie van Onderwijs, Cultuur en Wetenschap. "Kabinetsplannen
+Wetenschap 2015-2025." *Rijksoverheid.* Web. 13 December 2015.
+&lt;https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025&gt;.
+
+Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. "Call for
+Proposals. RAAK-mkb." *Nationaal Regieorgaan Praktijkgericht Onderzoek
+SIA.* Juli 2015.
+
+Nentwich, Michael, and René König. "Academia Goes Facebook? The
+Potential of Social Network Sites in the Scholarly Realm." *Opening
+Science*. Ed. Sönke Bartling and Sascha Friesike. New York: Springer
+International, 2014. p. 107-124.
+
+Onderwijs en Onderzoek /O2. "Format en Toelichting bij de HvA
+Indicatoren voor Praktijkgericht Onderzoek. Jaarverslag 2014."
+*Hogeschool van Amsterdam.* 2015.
+
+---. "Strategisch Onderzoeksbeleid 2015-2020." *Hogeschool van
+Amsterdam.* 2015
+
+Priem, Jason, Paul Groth and Dario Taraborelli. "The Altmetrics
+Collection." *PLos ONE* 7(11), 2012.
+
+Puschman, Cornelius. “(Micro)Blogging Science? Notes on Potentials and
+Constraints of New Forms of Scholarly Communication.” *Opening
+Science.* Ed. Sönke Bartling and Sascha Friesike. New York: Springer
+International, 2014. p. 89-106.
+
+Snijders, Raymond. “Over Big Deals, Open Access en de onderhandelingen
+tussen Elsevier en de universiteiten.” *Vakblog. Werken met
+Informatie.* Wordpress, 04 November 2014. Web. 19 Oktober 2015.
+&lt;<http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/>&gt;
+
+SURFfoundation. “Kennis van én voor de praktijk.” *Surf Kennisbank.*
+10 Augustus 2010. Web. 20 Oktober 2015.
+&lt;<https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf>&gt;.
+
+Terpstra, Doekle en Johannes van der Vos. "Open Access in het HBO: 'OA
+Modus 2.0'?" In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
+SURFfoundation: Utrecht, 2011.
+
+Van den Bosch, Herman. “Web met de Publicatie.” *SURF Space.* SURF, 15
+Februari 2015. Web. 20 Oktober 2015.
+&lt;<https://www.surfspace.nl/column/109-weg-met-de-publicatie/>&gt;.
+
+Van de Wijngaart, Aad. "Kennis van én voor de Praktijk." In: *Stromen
+van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation: Utrecht,
+2011.
+
+Van Vliet, Harry. “Lectoraten als *third spaces*.” *HO Management*.
+Issue: December (2011): p. 20-23.
+
+Verbruggen, Erwin, Johan Oomen en Eggo Müller. “Bringing Europe’s
+Audiovisual Heritage Online: EUScreenXL.” *IASA Journal.* Issue: no.
+42 (January 2014): p. 54-60.
+
+Vereniging Hogescholen. "Brancheprotocol Kwaliteitszorg Onderzoek
+(BKO) 2009-2015." *Vereniging Hogescholen.* Oktober 2007.
+
+Wolters, Pia en Lianne van Elk. "Open Output - Sluitend Systeem." In:
+*Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
+Utrecht, 2011.
 
 ## <span id="_Toc311709048" class="anchor"><span id="_Toc314908893" class="anchor"><span id="_Toc317258210" class="anchor"></span></span></span><span id="ch07-00"></span>7. Bijlages
 
