@@ -385,9 +385,9 @@ meten zoals hierboven is aangehaald.
                                                                                                           Populariserende publicaties
                                                                                                           Andere producten
   ------------------------------------------------------------------------------- ----------------------- --------------------------------------------------------------------------------------------------------------------
-                                                                                  Gebruik van producten   Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten
+  Beroepspraktijk en Maatschappij                                                 Gebruik van producten   Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten
   ------------------------------------------------------------------------------- ----------------------- --------------------------------------------------------------------------------------------------------------------
-                                                                                  Erkenning               Derdegeldstroom gefinancierde projecten
+  Beroepspraktijk en Maatschappij                                                 Erkenning               Derdegeldstroom gefinancierde projecten
                                                                                                           Media-uitingen	
 
 *Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)*
