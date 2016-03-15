@@ -944,26 +944,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Verschillen in toegepast onderzoek</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Item</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Van</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> ---------------------------- ----------------- --------------------- Toon van publicaties Fundamenteel Relatie tot bedrijfsleven In opdracht van Voornaamste publiek Onderzoekers Toegankelijkheid Gesloten Vorm Tekst</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>3. Theoretisch kader: impact meten en openheid van resultaten</Content>
@@ -1004,51 +984,146 @@
     <Content>De HvA heeft zelf indicatoren voor praktijkgericht onderzoek vastgesteld op basis waarvan over het onderzoek gerapporteerd wordt. Deze indicatoren geven inzicht in de producten van het onderzoek en het gebruik en erkenning hiervan. De productindicatoren zijn opgedeeld aan de hand van het doel dat ze dienen: beroepspraktijk en maatschappij, onderwijs en professionalisering, en kennisontwikkeling (O2 3-5). De indicatoren voor de beroepspraktijk en maatschappij zijn hieronder overgenomen. Wat opvalt, is dat sociale media, websites, blogs en andere digitale middelen niet aanwezig zijn in het overzicht. Verder bestaan er voor de beschrijving van het gebruik van de producten geen duidelijke richtlijnen. Dit reflecteert de moeilijkheid maatschappelijke impact te meten zoals hierboven is aangehaald.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="2" ColumnCount="3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="7" ColumnCount="3">
   <Column Name="0" />
   <Column Name="1" />
   <Column Name="2" />
   <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-        <Content>Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
-  </Cell>
-  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Doelstelling</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Indicator</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
-  <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Definitie</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
-  <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Beroepspraktijk en Maatschappij</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
+  <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Producten</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Vak/professionele publicaties</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
   <Cell Name="1:2" AppliedCellStyle="CellStyle/Cell">
   </Cell>
   <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Populariserende publicaties</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:3" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:3" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="2:3" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Andere producten</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:4" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:4" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Gebruik van producten</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="2:4" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:5" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:5" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Erkenning</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="2:5" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Derdegeldstroom gefinancierde projecten</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:6" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:6" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="2:6" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Media-uitingen</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:7" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>itsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicato</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="1:7" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>ren voor Praktijkgericht</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="2:7" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Onderzoek (O2)*</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
 </Table>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)</Content>
-  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
