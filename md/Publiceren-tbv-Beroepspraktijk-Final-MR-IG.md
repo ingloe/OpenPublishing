@@ -96,55 +96,51 @@ worden met het volgende:
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
 
-[TOC]
+## [Managementsamenvatting](#managmentsamenvatting)
 
-## [Managementsamenvatting 1](#managmentsamenvatting)
+### [Aanbevelingen](#_Toc315529322)
 
-### Aanbevelingen 2 {#aanbevelingen-2 .TOC3}
+## [Inhoud](#_Toc316740854)
 
-## Inhoud 3 {#inhoud-3 .TOC2}
+## [1. Inleiding](#ch01-00)
 
-## 1. Inleiding 4 {#inleiding-4 .TOC2}
+## [2. Praktijkgericht onderzoek in het HBO, en bij de HvA in het bijzonder](#_Toc311709031)
 
-## 2. Praktijkgericht onderzoek in het HBO, en bij de HvA in het bijzonder 5 {#praktijkgericht-onderzoek-in-het-hbo-en-bij-de-hva-in-het-bijzonder-5 .TOC2}
+### [2.1 Het praktijkgericht onderzoek in Nederland](#_Toc311709032)
 
-### 2.1 Het praktijkgericht onderzoek in Nederland 5 {#het-praktijkgericht-onderzoek-in-nederland-5 .TOC3}
+### [2.2 De situatie bij CREATE-IT en ACIN](#ch02-02)
 
-### 2.2 De situatie bij CREATE-IT en ACIN 6 {#de-situatie-bij-create-it-en-acin-6 .TOC3}
+### [2.3 Doelgroep en vorm van publicaties](#ch02-03)
 
-### 2.3 Doelgroep en vorm van publicaties 7 {#doelgroep-en-vorm-van-publicaties-7 .TOC3}
+### [2.4 Openheid van resultaten](#ch02-04)
 
-### 2.4 Openheid van resultaten 8 {#openheid-van-resultaten-8 .TOC3}
+### [2.5 Verschillen binnen onderzoek](#ch02-05)
 
-### 2.5 Verschillen binnen onderzoek 9 {#verschillen-binnen-onderzoek-9 .TOC3}
+## [3. Theoretisch kader: impact meten en openheid van resultaten](#ch03-00)
 
-## 3. Theoretisch kader: impact meten en openheid van resultaten 10 {#theoretisch-kader-impact-meten-en-openheid-van-resultaten-10 .TOC2}
+### [3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten](#ch03-01)
 
-### 3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten 12 {#toegankelijkheid-van-informatie-niet-van-onderzoeksresultaten-12 .TOC3}
+## [4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional](#ch04-00)
 
-## 4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional 14 {#empirisch-onderzoek-de-informatiebehoefte-van-de-creatieve-professional-14 .TOC2}
+### [4.1 Vindbaarheid](#ch04-01)
 
-### 4.1 Vindbaarheid 14 {#vindbaarheid-14 .TOC3}
+### [4.2 Inzetbaarheid](#ch04-02)
 
-### 4.2 Inzetbaarheid 15 {#inzetbaarheid-15 .TOC3}
+### [4.3 Consequenties voor publicatie](#ch04-03)
 
-### 4.3 Consequenties voor publicatie 16 {#consequenties-voor-publicatie-16 .TOC3}
+## [5. Conclusie](#ch05-00)
 
-## 5. Conclusie 18 {#conclusie-18 .TOC2}
+## [6. Bibliografie](#ch06-00)
 
-## 6. Bibliografie 19 {#bibliografie-19 .TOC2}
+## [7. Bijlages](#ch07-00)
 
-## 7. Bijlages 22 {#bijlages-22 .TOC2}
+### [7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN](#ch07-01)
 
-### 7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN 22 {#bijlage-1-labs-en-lectoraten-van-create-it-en-het-acin-22 .TOC3}
+### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
 
-### 7.2 Bijlage 2: Uitkomsten enquête met onderzoekers 23 {#bijlage-2-uitkomsten-enquête-met-onderzoekers-23 .TOC3}
+### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
 
-### 7.3 Bijlage 3: Uitkomsten enquete met event professionals 27 {#bijlage-3-uitkomsten-enquete-met-event-professionals-27 .TOC3}
-
-## \
-
-## 1. Inleiding
+## <span id="ch01-00"></span>1. Inleiding
 
 Dit rapport is het resultaat van onderzoek dat is uitgevoerd bij het
 PublishingLab in samenwerking met de Bibliotheek UvA/HvA. Het
@@ -246,7 +242,7 @@ karakteristieken van de praktijkgerichte focus van dit onderzoek. Zo kan
 die hier dienen als een ijkpunt voor de relatie tussen onderzoek en
 praktijk.
 
-### 2.2 De situatie bij CREATE-IT en ACIN
+### <span id="ch02-02"></span>2.2 De situatie bij CREATE-IT en ACIN
 
 Het kenniscentrum van DMCI van de Hogeschool van Amsterdam bestaat uit
 lectoraten en labs[^3] die onderzoek verrichten met betrekking tot 'de
@@ -271,7 +267,7 @@ doet. Dan zijn er nog promotietrajecten die een probleem dat in de
 praktijk bestaat vanuit een meer fundamenteel perspectief benaderen in
 een meerjarig traject.[^7]
 
-### 2.3 Doelgroep en vorm van publicaties
+### <span id="ch02-03"></span>2.3 Doelgroep en vorm van publicaties
 
 De verschillende relaties van de onderzoeksprojecten met de praktijk
 zorgen er ook voor dat er veel verschillende manieren van publiceren
@@ -291,7 +287,7 @@ professionals.[^10]
 De antwoorden op één van de vragen die in de enquête aan onderzoekers
 gesteld zijn.
 
-### <span id="_Toc311709035" class="anchor"><span id="_Toc317258200" class="anchor"></span></span>2.4 Openheid van resultaten
+### <span id="_Toc311709035" class="anchor"><span id="_Toc317258200" class="anchor"></span></span><span id="ch02-04"></span>2.4 Openheid van resultaten
 
 Openbare publicatie van onderzoek komt toepassing in de maatschappij ten
 goede, maar niet alle onderzoeken lenen zich hiervoor. Het komt
@@ -314,7 +310,7 @@ worden (Terpstra en Van der Vos 7). Meer over de consequenties hiervan
 en de specifieke invulling van open publiceren komt aan bod in het
 volgende hoofdstuk.
 
-### <span id="_Toc311709037" class="anchor"><span id="_Toc317258201" class="anchor"></span></span>2.5 Verschillen binnen onderzoek
+### <span id="_Toc311709037" class="anchor"><span id="_Toc317258201" class="anchor"></span></span><span id="ch02-05"></span>2.5 Verschillen binnen onderzoek
 
 Zoals hiervoor bleek, bestaan er veel verschillen binnen praktijkgericht
 onderzoek. Deze verschillen zorgen ervoor dat er geen
@@ -332,7 +328,7 @@ behandeld zijn:
   Toegankelijkheid
   Vorm
 
-## <span id="_Toc311709038" class="anchor"><span id="_Toc317258202" class="anchor"></span></span>3. Theoretisch kader: impact meten en openheid van resultaten
+## <span id="_Toc311709038" class="anchor"><span id="_Toc317258202" class="anchor"></span></span><span id="ch03-00"></span>3. Theoretisch kader: impact meten en openheid van resultaten
 
 Wetenschappelijke impact wordt vaak gemeten aan de hand van
 bibliometrische gegevens zoals de impactfactor.[^12] Sinds de opkomst
@@ -404,7 +400,7 @@ is het project Landelijk Kennisplein Verslavingszorg, dat de gebruiker
 door middel van tien verschillende filters verschillende wegen door de
 informatie bood (Bierens en Van den Bergh 14).
 
-### <span id="_Toc311709039" class="anchor"><span id="_Toc317258203" class="anchor"></span></span>3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten
+### <span id="_Toc311709039" class="anchor"><span id="_Toc317258203" class="anchor"></span></span><span id="ch03-01"></span>3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten
 
 In de academische wereld is de gang richting Open Access publiceren
 sinds 2000 steeds sterker ingezet. Het beleid van het Ministerie van OCW
@@ -446,7 +442,7 @@ oplossing voor een probleem dat in werkelijkheid ergens anders om
 draait. Waar dit probleem precies zit wordt in het volgende hoofdstuk
 duidelijk.
 
-## <span id="_Toc311709041" class="anchor"><span id="_Toc317258204" class="anchor"></span></span>4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional
+## <span id="_Toc311709041" class="anchor"><span id="_Toc317258204" class="anchor"></span></span><span id="ch04-00"></span>4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional
 
 Nu ook maatschappelijke impact een steeds belangrijkere graadmeter wordt
 in het onderzoek, is het tijd een publicatiemodel te ontwikkelen dat
@@ -464,7 +460,7 @@ de gesprekken met festivalprofessionals beschreven hoe vindbaarheid en
 inzetbaarheid ingevuld kunnen worden om het gebruik van
 onderzoeksresultaten door deze professionals te faciliteren.
 
-### <span id="_Toc311709042" class="anchor"><span id="_Toc317258205" class="anchor"></span></span>4.1 Vindbaarheid
+### <span id="_Toc311709042" class="anchor"><span id="_Toc317258205" class="anchor"></span></span><span id="ch04-01"></span>4.1 Vindbaarheid
 
 Professionals in deze sector komen niet vaak in aanraking met onderzoek
 dat voor hen relevant is. Zo zijn ze grotendeels onbekend met
@@ -489,7 +485,7 @@ maatschappij is het van belang een actieve relatie tot het werkveld te
 onderhouden en het onderzoek toegankelijk te maken op plekken waar de
 professional is, zoals die hier genoemd worden.
 
-### <span id="_Toc311709043" class="anchor"><span id="_Toc317258206" class="anchor"></span></span>4.2 Inzetbaarheid
+### <span id="_Toc311709043" class="anchor"><span id="_Toc317258206" class="anchor"></span></span><span id="ch04-02"></span>4.2 Inzetbaarheid
 
 Traditionele onderzoeksoutput, zoals een artikel in een journal, is niet
 de gewenste vorm van het professionele publiek.[^19] Zij zijn het lezen
@@ -521,7 +517,7 @@ meer complete verzameling van informatie over een thema (mogelijkerwijs
 voortkomend uit meerdere onderzoeken): het gaat om *informatie* op basis
 van onderzoeksresultaten, niet om de onderzoeksresultaten zelf.
 
-### <span id="_Toc311709044" class="anchor"><span id="_Toc317258207" class="anchor"></span></span>4.3 Consequenties voor publicatie
+### <span id="_Toc311709044" class="anchor"><span id="_Toc317258207" class="anchor"></span></span><span id="ch04-03"></span>4.3 Consequenties voor publicatie
 
 Dit betekent dat de onderzoeker bij de communicatie van zijn of haar
 bevindingen rekening moet houden met verschillende soorten lezers (Hall
@@ -582,7 +578,7 @@ etc.), en hoe de professional bij deze informatie terecht komt. De
 informatie moet geherstructureerd worden zodat er meer overeenstemming
 is met de wensen van de professional.
 
-## <span id="_Toc311709045" class="anchor"><span id="_Toc317258208" class="anchor"></span></span>5. Conclusie
+## <span id="_Toc311709045" class="anchor"><span id="_Toc317258208" class="anchor"></span></span><span id="ch05-00"></span>5. Conclusie
 
 <span id="_Toc311709046" class="anchor"></span>Praktijkgericht onderzoek
 verschilt van academisch onderzoek: het staat dicht bij praktische
@@ -611,7 +607,7 @@ in cijfers te meten is. Daarbij moet het belang van een publicatie meer
 afhangen van hoe centraal deze is voor innovatie in de praktijk dan hoe
 vaak deze geciteerd wordt.
 
-## 6. Bibliografie
+## <span id="ch06-00"></span>6. Bibliografie
 
 > Aan de Brugh, Marcel. “De Chaos van Open Access.” *NRC.* NRC Media, 10
 > Januari 2015. Web. 19 Oktober 2015.
@@ -713,9 +709,9 @@ Web. 2 December 2015.
 > *Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
 > Utrecht, 2011.
 
-## <span id="_Toc311709048" class="anchor"><span id="_Toc314908893" class="anchor"><span id="_Toc317258210" class="anchor"></span></span></span>7. Bijlages
+## <span id="_Toc311709048" class="anchor"><span id="_Toc314908893" class="anchor"><span id="_Toc317258210" class="anchor"></span></span></span><span id="ch07-00"></span>7. Bijlages
 
-### 7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN
+### <span id="ch07-01"></span>7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN
 
 Kort samengevat naar aanleiding van beschrijvingen op de websites van
 ACIN, Create-IT, de labs en de lectoraten.
@@ -732,8 +728,7 @@ ACIN, Create-IT, de labs en de lectoraten.
   MediaLAB                  Media, User Experience ontwerpers                                                                                          
   PublishingLab             Uitgevers, grafisch ontwerpers, boekontwikkelaars                                                                          
 
-### \
-7.2 Bijlage 2: Uitkomsten enquête met onderzoekers
+### <span id="ch07-02"></span>7.2 Bijlage 2: Uitkomsten enquête met onderzoekers
 
 De uitkomsten van een enquête gestuurd aan 54 onderzoekers bij CREATE-IT
 en ACIN, waarvan er 38 reageerden tussen 24 november 2015 en 15 januari
