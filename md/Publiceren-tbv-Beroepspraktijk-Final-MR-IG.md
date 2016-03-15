@@ -1,27 +1,23 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Open Publishing
+P-id: PublishingLab article
+A-id: 1
 Type: article
-Book-type: anthology
+Book-type: article
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 1
+Article-title: Van praktijkgericht onderzoek naar de praktijk van de professional
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Inte Gloerich
+Author-email:   i.gloerich@hva.nl
+Author-bio:  x
+Abstract:   Hoe kan praktijkgericht onderzoek de professional beter bereiken?
+Keywords:   praktijkgericht onderzoek, toegepast onderzoek, onderzoek, HBO, HvA, creatieve industrie
 Rights: CC BY-NC 4.0
 ...
 
 
-**<span style="font-variant:small-caps;">VAN PRAKTIJKGERICHT ONDERZOEK
-NAAR </span>**
-
-**<span style="font-variant:small-caps;">DE PRAKTIJK VAN DE
-PROFESSIONAL</span>**
+#<span style="font-variant:small-caps;">VAN PRAKTIJKGERICHT ONDERZOEK NAAR DE PRAKTIJK VAN DE PROFESSIONAL</span>
 
 Door: Inte Gloerich, <i.gloerich@hva.nl>
 
@@ -30,7 +26,7 @@ Onder begeleiding van: Hilde van Wijngaarden
 16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
 Hogeschool van Amsterdam
 
-## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span>Managementsamenvatting
+## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span><span id="managementsamenvatting"></span>Managementsamenvatting
 
 De wereld van academisch publiceren is de afgelopen jaren onder invloed
 van Open Access bezig met een vergaande reorganisatie. De eis van de
@@ -100,7 +96,9 @@ worden met het volgende:
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
 
-## Managementsamenvatting 1 {#managementsamenvatting-1 .TOC2}
+[TOC]
+
+## [Managementsamenvatting 1](#managmentsamenvatting)
 
 ### Aanbevelingen 2 {#aanbevelingen-2 .TOC3}
 
