@@ -1500,21 +1500,21 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Aan de Brugh, Marcel. “De Chaos van Open Access.” </Content>
+    <Content>Aan de Brugh, Marcel. “</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>De Chaos van Open Access.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>NRC.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> NRC Media, 10 Januari 2015. Web. 19 Oktober 2015. &lt;</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content> NRC Media, 10 Januari 2015. Web. 19 Oktober 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1689,40 +1689,40 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Snijders, Raymond. “Over Big Deals, Open Access en de onderhandelingen tussen Elsevier en de universiteiten.” </Content>
+    <Content>Snijders, Raymond. “</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Over Big Deals, Open Access en de onderhandelingen tussen Elsevier en de universiteiten.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Vakblog. Werken met Informatie.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Wordpress, 04 November 2014. Web. 19 Oktober 2015. &lt;</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;</Content>
+    <Content> Wordpress, 04 November 2014. Web. 19 Oktober 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>SURFfoundation. “Kennis van én voor de praktijk.” </Content>
+    <Content>SURFfoundation. “</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Kennis van én voor de praktijk.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Surf Kennisbank.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> 10 Augustus 2010. Web. 20 Oktober 2015. &lt;</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content> 10 Augustus 2010. Web. 20 Oktober 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1738,21 +1738,21 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Van den Bosch, Herman. “Web met de Publicatie.” </Content>
+    <Content>Van den Bosch, Herman. “</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Weg met de Publicatie.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>” </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>SURF Space.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> SURF, 15 Februari 2015. Web. 20 Oktober 2015. &lt;</Content>
-  </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>https://www.surfspace.nl/column/109-weg-met-de-publicatie/</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&gt;.</Content>
+    <Content> SURF, 15 Februari 2015. Web. 20 Oktober 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
