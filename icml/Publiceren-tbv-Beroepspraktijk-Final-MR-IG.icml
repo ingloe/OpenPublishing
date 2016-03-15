@@ -989,7 +989,7 @@
     <Content>Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="7" ColumnCount="3">
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="6" ColumnCount="3">
   <Column Name="0" />
   <Column Name="1" />
   <Column Name="2" />
@@ -1100,30 +1100,14 @@
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="0:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>itsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicato</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>ren voor Praktijkgericht</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:7" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Onderzoek (O2)*</Content>
-      </CharacterStyleRange><Br />
-    </ParagraphStyleRange>
-  </Cell>
 </Table>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
   <Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)</Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
