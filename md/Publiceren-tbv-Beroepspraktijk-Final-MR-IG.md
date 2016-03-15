@@ -615,9 +615,8 @@ vaak deze geciteerd wordt.
 
 ## <span id="ch06-00"></span>6. Bibliografie
 
-Aan de Brugh, Marcel. “De Chaos van Open Access.” *NRC.* NRC Media, 10
+<span id="bibliography">Aan de Brugh, Marcel. “[De Chaos van Open Access.](http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804)” *NRC.* NRC Media, 10
 Januari 2015. Web. 19 Oktober 2015.
-&lt;<http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804>&gt;.
 
 Bierens, Gerard en Desirée van den Bergh. "HBO Kennisbank, Onmisbare
 Schakel 2.0." In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
@@ -680,22 +679,19 @@ Constraints of New Forms of Scholarly Communication.” *Opening
 Science.* Ed. Sönke Bartling and Sascha Friesike. New York: Springer
 International, 2014. p. 89-106.
 
-Snijders, Raymond. “Over Big Deals, Open Access en de onderhandelingen
-tussen Elsevier en de universiteiten.” *Vakblog. Werken met
+Snijders, Raymond. “[Over Big Deals, Open Access en de onderhandelingen
+tussen Elsevier en de universiteiten.](http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/)” *Vakblog. Werken met
 Informatie.* Wordpress, 04 November 2014. Web. 19 Oktober 2015.
-&lt;<http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/>&gt;
 
-SURFfoundation. “Kennis van én voor de praktijk.” *Surf Kennisbank.*
+SURFfoundation. “[Kennis van én voor de praktijk.](https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf)” *Surf Kennisbank.*
 10 Augustus 2010. Web. 20 Oktober 2015.
-&lt;<https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf>&gt;.
 
 Terpstra, Doekle en Johannes van der Vos. "Open Access in het HBO: 'OA
 Modus 2.0'?" In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
 SURFfoundation: Utrecht, 2011.
 
-Van den Bosch, Herman. “Web met de Publicatie.” *SURF Space.* SURF, 15
+Van den Bosch, Herman. “[Weg met de Publicatie.](https://www.surfspace.nl/column/109-weg-met-de-publicatie/)” *SURF Space.* SURF, 15
 Februari 2015. Web. 20 Oktober 2015.
-&lt;<https://www.surfspace.nl/column/109-weg-met-de-publicatie/>&gt;.
 
 Van de Wijngaart, Aad. "Kennis van én voor de Praktijk." In: *Stromen
 van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation: Utrecht,
@@ -713,7 +709,7 @@ Vereniging Hogescholen. "Brancheprotocol Kwaliteitszorg Onderzoek
 
 Wolters, Pia en Lianne van Elk. "Open Output - Sluitend Systeem." In:
 *Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
-Utrecht, 2011.
+Utrecht, 2011.</span>
 
 ## <span id="_Toc311709048" class="anchor"><span id="_Toc314908893" class="anchor"><span id="_Toc317258210" class="anchor"></span></span></span><span id="ch07-00"></span>7. Bijlages
 
