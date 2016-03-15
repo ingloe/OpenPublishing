@@ -14,17 +14,17 @@
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
-      <CharacterStyle Self="CharacterStyle/Bold SmallCaps" Name="Bold SmallCaps" FontStyle="Bold" Capitalization="SmallCaps">
-        <Properties>
-          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
-        </Properties>
-      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
       </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/SmallCaps" Name="SmallCaps" Capitalization="SmallCaps">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -76,6 +76,11 @@
         </Properties>
       </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Footnote &gt; Paragraph" Name="Footnote &gt; Paragraph" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header1" Name="Header1" LeftIndent="0" PointSize="36">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
@@ -140,14 +145,9 @@
     <StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" />
 
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold SmallCaps">
-    <Content>VAN PRAKTIJKGERICHT ONDERZOEK NAAR </Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold SmallCaps">
-    <Content>DE PRAKTIJK VAN DE PROFESSIONAL</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SmallCaps">
+    <Content>VAN PRAKTIJKGERICHT ONDERZOEK NAAR DE PRAKTIJK VAN DE PROFESSIONAL</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -248,10 +248,17 @@
     <Content>Inhoud</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Managementsamenvatting 1</Content>
+    <Content>[TOC]</Content>
   </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Managementsamenvatting 1</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -527,7 +534,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Het ACIN geeft een soortgelijke beschrijving van het vakgebied waar de labs zich op richten, zie </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://amsterdamcreativeindustries.com/over</Content>
           </CharacterStyleRange>
@@ -627,7 +634,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Zoals </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.digitallifecentre.nl/</Content>
           </CharacterStyleRange>
@@ -635,7 +642,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content> en </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://medialab.hva.nl/</Content>
           </CharacterStyleRange>
@@ -973,7 +980,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Al in 2009 ondertekende de hbo-raad de Berlin Declaration on Open Access, zie </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access</Content>
           </CharacterStyleRange>
@@ -981,7 +988,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>. Ook in 2011 presenteert de Vereniging Hogescholen Open Access als de weg naar de toekomst, zie </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/.</Content>
           </CharacterStyleRange>
@@ -1266,7 +1273,7 @@
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
           <Content>Surf Space is de ‘online community over ICT-innovatie vóór en dóór professionals in het hoger onderwijs en onderzoek’ van SURF (</Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
             <Content>https://www.surfspace.nl/over-surfspace/</Content>
           </CharacterStyleRange>
@@ -1321,7 +1328,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> NRC Media, 10 Januari 2015. Web. 19 Oktober 2015. &lt;</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804</Content>
     </CharacterStyleRange>
@@ -1510,7 +1517,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Wordpress, 04 November 2014. Web. 19 Oktober 2015. &lt;</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/</Content>
     </CharacterStyleRange>
@@ -1529,7 +1536,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> 10 Augustus 2010. Web. 20 Oktober 2015. &lt;</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf</Content>
     </CharacterStyleRange>
@@ -1559,7 +1566,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> SURF, 15 Februari 2015. Web. 20 Oktober 2015. &lt;</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://www.surfspace.nl/column/109-weg-met-de-publicatie/</Content>
     </CharacterStyleRange>
@@ -3109,73 +3116,80 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surfspace.nl/column/109-weg-met-de-publicatie/" Name="link" DestinationURL="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-12" Name="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" Source="htss-12" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-13" Name="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" Source="htss-13" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surfspace.nl/column/109-weg-met-de-publicatie/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Name="link" DestinationURL="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-11" Name="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Source="htss-11" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-12" Name="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Source="htss-12" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Name="link" DestinationURL="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-10" Name="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Source="htss-10" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-11" Name="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Source="htss-11" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Name="link" DestinationURL="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-9" Name="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Source="htss-9" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-10" Name="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Source="htss-10" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surfspace.nl/over-surfspace/" Name="link" DestinationURL="https://www.surfspace.nl/over-surfspace/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="https://www.surfspace.nl/over-surfspace/" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="https://www.surfspace.nl/over-surfspace/" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surfspace.nl/over-surfspace/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." Name="link" DestinationURL="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/.</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" Name="link" DestinationURL="http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//medialab.hva.nl/" Name="link" DestinationURL="http://medialab.hva.nl/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="http://medialab.hva.nl/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="http://medialab.hva.nl/" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//medialab.hva.nl/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.digitallifecentre.nl/" Name="link" DestinationURL="http://www.digitallifecentre.nl/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://www.digitallifecentre.nl/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="http://www.digitallifecentre.nl/" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.digitallifecentre.nl/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//amsterdamcreativeindustries.com/over" Name="link" DestinationURL="http://amsterdamcreativeindustries.com/over" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="http://amsterdamcreativeindustries.com/over" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="http://amsterdamcreativeindustries.com/over" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//amsterdamcreativeindustries.com/over</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/#managmentsamenvatting" Name="link" DestinationURL="#managmentsamenvatting" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="#managmentsamenvatting" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/#managmentsamenvatting</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.publishinglab.nl/" Name="link" DestinationURL="http://www.publishinglab.nl/" DestinationUniqueKey="1" />
