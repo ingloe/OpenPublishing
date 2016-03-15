@@ -1409,32 +1409,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:media/image2.jpeg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wat betreft de vorm van de informatie komt het van pas te denken in verschillende lagen, zoals op Surf Space</Content>
+    <Content>Wat betreft de vorm van de informatie komt het vanzelf pas te denken in verschillende lagen, zoals op Surf Space</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1467,6 +1442,34 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/VanDenBosch_piramide-van-oorspronkelijkheid.jpg" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Gelaagde publicatie zoals voorgesteld door Herman van den Bosch. Bron van figuur: Van den Bosch, 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
@@ -1495,7 +1498,7 @@
     <Content>6. Bibliografie</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Aan de Brugh, Marcel. “De Chaos van Open Access.” </Content>
   </CharacterStyleRange>
@@ -1514,7 +1517,7 @@
     <Content>&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bierens, Gerard en Desirée van den Bergh. &quot;HBO Kennisbank, Onmisbare Schakel 2.0.&quot; In: </Content>
   </CharacterStyleRange>
@@ -1525,7 +1528,7 @@
     <Content> SURFfoundation: Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Bruins, Eppo. &quot;Uitgeteld.&quot; In: Waardevol. Indicatoren voor Valorisatie. Landelijke Commissie Valorisatie. Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
@@ -1541,7 +1544,7 @@
     <Content> 15 Oktober 2015. Web. 2 December 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Hahn, Karla, Charles Lowry, Clifford Lynch and David Shulenberger. &quot;The University's Role in the Dissemination of Research and Scholarship - A Call to Action.&quot; </Content>
   </CharacterStyleRange>
@@ -1552,7 +1555,7 @@
     <Content> Washington, 2009.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Hall, Ralph. </Content>
   </CharacterStyleRange>
@@ -1563,7 +1566,7 @@
     <Content> Melbourne, Macmillan Education AU, 2008.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Hogeschool van Amsterdam. &quot;Jaarverslag 2014.&quot; </Content>
   </CharacterStyleRange>
@@ -1574,7 +1577,7 @@
     <Content> 24 Juni 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Jonge Akademie, De. </Content>
   </CharacterStyleRange>
@@ -1585,7 +1588,7 @@
     <Content> Ed. Jeroen Salman, Maarten Kleinhans en Dolf Weijers, 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. &quot;Wat is Open Access.&quot; </Content>
   </CharacterStyleRange>
@@ -1596,7 +1599,7 @@
     <Content> Web. 9 December 2015. &lt;http://www.openaccess.nl/nl/wat-is-open-access&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Landelijke Commissie Valorisatie. </Content>
   </CharacterStyleRange>
@@ -1607,7 +1610,7 @@
     <Content> Rathenau Instituut: Den Haag en Technologiestichting STW: Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ministerie van Onderwijs, Cultuur en Wetenschap. &quot;Kabinetsplannen Wetenschap 2015-2025.&quot; </Content>
   </CharacterStyleRange>
@@ -1618,7 +1621,7 @@
     <Content> Web. 13 December 2015. &lt;https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. &quot;Call for Proposals. RAAK-mkb.&quot; </Content>
   </CharacterStyleRange>
@@ -1629,7 +1632,7 @@
     <Content> Juli 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Nentwich, Michael, and René König. &quot;Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm.&quot; </Content>
   </CharacterStyleRange>
@@ -1640,7 +1643,7 @@
     <Content>. Ed. Sönke Bartling and Sascha Friesike. New York: Springer International, 2014. p. 107-124.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Onderwijs en Onderzoek /O2. &quot;Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek. Jaarverslag 2014.&quot; </Content>
   </CharacterStyleRange>
@@ -1651,7 +1654,7 @@
     <Content> 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>---. &quot;Strategisch Onderzoeksbeleid 2015-2020.&quot; </Content>
   </CharacterStyleRange>
@@ -1662,7 +1665,7 @@
     <Content> 2015</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Priem, Jason, Paul Groth and Dario Taraborelli. &quot;The Altmetrics Collection.&quot; </Content>
   </CharacterStyleRange>
@@ -1673,7 +1676,7 @@
     <Content> 7(11), 2012.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Puschman, Cornelius. “(Micro)Blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication.” </Content>
   </CharacterStyleRange>
@@ -1684,7 +1687,7 @@
     <Content> Ed. Sönke Bartling and Sascha Friesike. New York: Springer International, 2014. p. 89-106.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Snijders, Raymond. “Over Big Deals, Open Access en de onderhandelingen tussen Elsevier en de universiteiten.” </Content>
   </CharacterStyleRange>
@@ -1703,7 +1706,7 @@
     <Content>&gt;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>SURFfoundation. “Kennis van én voor de praktijk.” </Content>
   </CharacterStyleRange>
@@ -1722,7 +1725,7 @@
     <Content>&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Terpstra, Doekle en Johannes van der Vos. &quot;Open Access in het HBO: 'OA Modus 2.0'?&quot; In: </Content>
   </CharacterStyleRange>
@@ -1733,7 +1736,7 @@
     <Content> SURFfoundation: Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van den Bosch, Herman. “Web met de Publicatie.” </Content>
   </CharacterStyleRange>
@@ -1752,7 +1755,7 @@
     <Content>&gt;.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van de Wijngaart, Aad. &quot;Kennis van én voor de Praktijk.&quot; In: </Content>
   </CharacterStyleRange>
@@ -1763,7 +1766,7 @@
     <Content> SURFfoundation: Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van Vliet, Harry. “Lectoraten als </Content>
   </CharacterStyleRange>
@@ -1780,7 +1783,7 @@
     <Content>. Issue: December (2011): p. 20-23.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Verbruggen, Erwin, Johan Oomen en Eggo Müller. “Bringing Europe’s Audiovisual Heritage Online: EUScreenXL.” </Content>
   </CharacterStyleRange>
@@ -1791,7 +1794,7 @@
     <Content> Issue: no. 42 (January 2014): p. 54-60.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Vereniging Hogescholen. &quot;Brancheprotocol Kwaliteitszorg Onderzoek (BKO) 2009-2015.&quot; </Content>
   </CharacterStyleRange>
@@ -1802,7 +1805,7 @@
     <Content> Oktober 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Wolters, Pia en Lianne van Elk. &quot;Open Output - Sluitend Systeem.&quot; In: </Content>
   </CharacterStyleRange>
