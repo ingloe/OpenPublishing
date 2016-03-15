@@ -282,10 +282,8 @@ Ook delen onderzoekers hun onderzoek en opgedane kennis in
 kennistransferavonden, meet-ups en workshops met een publiek van
 professionals.[^10]
 
-![](media/image1.png)
-
-De antwoorden op één van de vragen die in de enquête aan onderzoekers
-gesteld zijn.
+![](imgs/publicatievormenvanCREATEITACIN-01.png)
+*De antwoorden op één van de vragen die in de enquête aan onderzoekers gesteld zijn.*
 
 ### <span id="_Toc311709035" class="anchor"><span id="_Toc317258200" class="anchor"></span></span><span id="ch02-04"></span>2.4 Openheid van resultaten
 
@@ -321,12 +319,13 @@ de verschillende kenmerken van praktijkgericht onderzoek die zojuist
 behandeld zijn:
 
   **Verschillen in toegepast onderzoek**
-  ---------------------------------------- ----------------- ---------------------
-  Toon van publicaties
-  Relatie tot bedrijfsleven
-  Voornaamste publiek
-  Toegankelijkheid
-  Vorm
+  Item 							 Van		
+  ---------------------------- ----------------- ---------------------
+  Toon van publicaties			 Fundamenteel
+  Relatie tot bedrijfsleven	 In opdracht van
+  Voornaamste publiek			 Onderzoekers
+  Toegankelijkheid				 Gesloten
+  Vorm								 Tekst
 
 ## <span id="_Toc311709038" class="anchor"><span id="_Toc317258202" class="anchor"></span></span><span id="ch03-00"></span>3. Theoretisch kader: impact meten en openheid van resultaten
 
