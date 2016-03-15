@@ -318,13 +318,13 @@ verschillende sectoren optimaal te dienen. Hieronder een overzicht van
 de verschillende kenmerken van praktijkgericht onderzoek die zojuist
 behandeld zijn:
 
-  Item                       Van                                                                            Tot
+  Item                       Van                                                                                       Tot
   ------------------------- ------------------------------------------------------------------------------------------ ------------------------------- 
-  Toon van publicaties          Fundamenteel                                         Toegepast
-  Relatie tot bedrijfsleven   In opdracht van                                                      In samenwerking met
-  Voornaamste publiek   Onderzoekers   Professionals
-  Toegankelijkheid                 Gesloten                                                                   Open
-  Vorm    Tekst                                                                Multimediaal
+  Toon van publicaties      Fundamenteel                                                                               Toegepast
+  Relatie tot bedrijfsleven In opdracht van                                                                            In samenwerking met
+  Voornaamste publiek       Onderzoekers                                                                               Professionals
+  Toegankelijkheid          Gesloten                                                                                   Open
+  Vorm                      Tekst                                                                                      Multimediaal
   
 
     
