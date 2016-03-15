@@ -1066,6 +1066,11 @@
   <Column Name="1" />
   <Column Name="2" />
   <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Beroepspraktijk en Maatschappij</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
@@ -1082,6 +1087,11 @@
     </ParagraphStyleRange>
   </Cell>
   <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Beroepspraktijk en Maatschappij</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
   </Cell>
   <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
