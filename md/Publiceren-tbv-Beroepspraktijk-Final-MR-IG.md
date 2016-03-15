@@ -327,17 +327,6 @@ behandeld zijn:
   Voornaamste publiek       Onderzoekers        Professionals
   Toegankelijkheid          Gesloten            Open
   Vorm                      Tekst               Multimediaal
-  
-
-    
-  **Verschillen in toegepast onderzoek**
-  **Item**						 **Van**
-  ---------------------------- ----------------- ---------------------
-  Toon van publicaties			 Fundamenteel
-  Relatie tot bedrijfsleven	 In opdracht van
-  Voornaamste publiek			 Onderzoekers
-  Toegankelijkheid				 Gesloten
-  Vorm								 Tekst
 
 ## <span id="_Toc311709038" class="anchor"><span id="_Toc317258202" class="anchor"></span></span><span id="ch03-00"></span>3. Theoretisch kader: impact meten en openheid van resultaten
 
@@ -388,13 +377,17 @@ voor de beschrijving van het gebruik van de producten geen duidelijke
 richtlijnen. Dit reflecteert de moeilijkheid maatschappelijke impact te
 meten zoals hierboven is aangehaald.
 
-  **Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden**
+**Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden**
+  
+  Doelstelling                                                                    Indicator               Definitie
   ------------------------------------------------------------------------------- ----------------------- --------------------------------------------------------------------------------------------------------------------
-  **Doelstelling**
-  Beroepspraktijk en Maatschappij
-
-Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA
-Indicatoren voor Praktijkgericht Onderzoek (O2)
+  Beroepspraktijk en Maatschappij                                                 Producten               Vak/professionele publicaties
+                                                                                                          Populariserende publicaties
+                                                                                                          Andere producten
+                                                                                  Gebruik van producten   Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten
+                                                                                  Erkenning               Derdegeldstroom gefinancierde projecten
+                                                                                                          Media-uitingen	
+*Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)*
 
 Eppo Bruins benadrukt in het rapport ‘Waardeloos’ van de Landelijke
 Commissie Valorisatie[^13] dat indicatoren een manier zijn om de
