@@ -387,6 +387,7 @@ meten zoals hierboven is aangehaald.
                                                                                   Gebruik van producten   Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten
                                                                                   Erkenning               Derdegeldstroom gefinancierde projecten
                                                                                                           Media-uitingen	
+
 *Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)*
 
 Eppo Bruins benadrukt in het rapport ‘Waardeloos’ van de Landelijke
