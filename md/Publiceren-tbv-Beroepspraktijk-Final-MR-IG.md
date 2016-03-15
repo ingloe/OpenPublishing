@@ -318,7 +318,8 @@ verschillende sectoren optimaal te dienen. Hieronder een overzicht van
 de verschillende kenmerken van praktijkgericht onderzoek die zojuist
 behandeld zijn:
 
-  Verschillen in toegepast onderzoek
+**Verschillen in toegepast onderzoek**
+
   Item                      Van                 Tot
   ------------------------- ------------------- ------------------------------- 
   Toon van publicaties      Fundamenteel        Toegepast
