@@ -382,13 +382,9 @@ meten zoals hierboven is aangehaald.
   Doelstelling                                                                    Indicator               Definitie
   ------------------------------------------------------------------------------- ----------------------- --------------------------------------------------------------------------------------------------------------------
   Beroepspraktijk en Maatschappij                                                 Producten               Vak/professionele publicaties
-                                                                                                          --------------------------------------------------------------------------------------------------------------------
                                                                                                           Populariserende publicaties
-                                                                                                          --------------------------------------------------------------------------------------------------------------------
                                                                                                           Andere producten
-                                                                                  ----------------------- --------------------------------------------------------------------------------------------------------------------
                                                                                   Gebruik van producten   Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten
-                                                                                  ----------------------- --------------------------------------------------------------------------------------------------------------------
                                                                                   Erkenning               Derdegeldstroom gefinancierde projecten
                                                                                                           Media-uitingen	
 
