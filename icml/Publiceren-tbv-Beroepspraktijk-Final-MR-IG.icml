@@ -989,7 +989,7 @@
     <Content>Overzicht HvA Indicatoren voor praktijkgericht onderzoek en streefwaarden</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="3" ColumnCount="3">
+<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="10" ColumnCount="3">
   <Column Name="0" />
   <Column Name="1" />
   <Column Name="2" />
@@ -1042,7 +1042,7 @@
   <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Populariserende publicaties</Content>
+        <Content>--------------------------------------------------------------------------------------------------------------------</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
@@ -1053,65 +1053,101 @@
   <Cell Name="2:3" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>Populariserende publicaties</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:4" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:4" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="2:4" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>--------------------------------------------------------------------------------------------------------------------</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:5" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:5" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="2:5" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Andere producten</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-</Table>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
-  <Br />
-</ParagraphStyleRange>
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="2" ColumnCount="3">
-  <Column Name="0" />
-  <Column Name="1" />
-  <Column Name="2" />
-  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+  <Cell Name="0:6" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:6" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Beroepspraktijk en Maatschappij</Content>
+        <Content>-----------------------</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+  <Cell Name="2:6" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>--------------------------------------------------------------------------------------------------------------------</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:7" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:7" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Gebruik van producten</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; TableHeader &gt; LeftAlign">
+  <Cell Name="2:7" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Kwalitatieve beschrijving van daadwerkelijk gebruik door de beroepspraktijk/ maatschappij van onderzoeksresultaten</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="0:1" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="0:8" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:8" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Content>Beroepspraktijk en Maatschappij</Content>
+        <Content>-----------------------</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="1:1" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="2:8" AppliedCellStyle="CellStyle/Cell">
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
+      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+        <Content>--------------------------------------------------------------------------------------------------------------------</Content>
+      </CharacterStyleRange><Br />
+    </ParagraphStyleRange>
+  </Cell>
+  <Cell Name="0:9" AppliedCellStyle="CellStyle/Cell">
+  </Cell>
+  <Cell Name="1:9" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Erkenning</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="2:1" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="2:9" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Derdegeldstroom gefinancierde projecten</Content>
       </CharacterStyleRange><Br />
     </ParagraphStyleRange>
   </Cell>
-  <Cell Name="0:2" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="0:10" AppliedCellStyle="CellStyle/Cell">
   </Cell>
-  <Cell Name="1:2" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="1:10" AppliedCellStyle="CellStyle/Cell">
   </Cell>
-  <Cell Name="2:2" AppliedCellStyle="CellStyle/Cell">
+  <Cell Name="2:10" AppliedCellStyle="CellStyle/Cell">
     <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TablePar &gt; LeftAlign">
       <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
         <Content>Media-uitingen</Content>
