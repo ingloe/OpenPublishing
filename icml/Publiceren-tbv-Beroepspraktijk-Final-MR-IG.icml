@@ -1817,7 +1817,7 @@
     <Content> Oktober 2007.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Wolters, Pia en Lianne van Elk. &quot;Open Output - Sluitend Systeem.&quot; In: </Content>
   </CharacterStyleRange>
