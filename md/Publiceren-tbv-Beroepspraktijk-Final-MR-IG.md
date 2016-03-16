@@ -707,7 +707,8 @@ Vereniging Hogescholen. "Brancheprotocol Kwaliteitszorg Onderzoek
 
 Wolters, Pia en Lianne van Elk. "Open Output - Sluitend Systeem." In:
 *Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
-Utrecht, 2011.</span>
+Utrecht, 2011.
+</span>
 
 ## <span id="ch07-00"></span>7. Bijlages
 
