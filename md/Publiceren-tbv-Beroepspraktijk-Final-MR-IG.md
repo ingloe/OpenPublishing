@@ -1292,7 +1292,7 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
 1.  gelezen in de medie
 
 ## Voetnoten
-<span id="voetnoten">
+
 [^1]: Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in
     rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van
     Amsterdam (27-32). De Vereniging van Hogescholen gebruikt
@@ -1386,4 +1386,3 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
 
 [^22]: Surf Space is de ‘online community over ICT-innovatie vóór en
     dóór professionals in het hoger onderwijs en onderzoek’ van [SURF](https://www.surfspace.nl/over-surfspace/).
-</span>
