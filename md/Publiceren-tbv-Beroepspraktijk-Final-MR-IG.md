@@ -95,7 +95,7 @@ worden met het volgende:
     algemene, inzetbare kennis.
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
-<div id="toc">
+
 ## [Managementsamenvatting](#managmentsamenvatting)
 
 ### [Aanbevelingen](#_Toc315529322)
@@ -139,7 +139,6 @@ worden met het volgende:
 ### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
 
 ### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
-</div>
 
 ## <span id="ch01-00"></span>1. Inleiding
 
