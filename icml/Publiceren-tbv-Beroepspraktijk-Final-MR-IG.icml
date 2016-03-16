@@ -248,7 +248,10 @@
     <Content>Inhoud</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> ## </Content>
+  </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Managementsamenvatting</Content>
@@ -402,6 +405,9 @@
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <Br />
+</ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>1. Inleiding</Content>
@@ -424,27 +430,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Deze onderzoeksvraag raakt aan een (relatief nieuwe) kerntaak van hbo-instellingen: onderzoek doen. Dit onderzoek is in grote mate praktijkgericht</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
-    <Footnote>
-      <ParagraphStyleRange>
-        <CharacterStyleRange>
-          <Content><?ACE 4?></Content>
-        </CharacterStyleRange>
-      </ParagraphStyleRange>
-      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>	</Content>
-        </CharacterStyleRange>
-        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van Amsterdam (27-32). De Vereniging van Hogescholen gebruikt 'praktijkgericht onderzoek' als verzamelterm voor onderzoek in het HBO (4). Uit eigen beschrijvingen van onderzoekers zal blijken dat vaak zelf ook hun onderzoek als praktijkgericht zouden omschrijven, maar niet in alle gevallen.</Content>
-        </CharacterStyleRange><Br />
-      </ParagraphStyleRange>
-    </Footnote>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, wat niet alleen inhoudelijk tot uiting komt, maar ook het publiek van de uitkomsten bepaalt. Dat wil zeggen, het onderzoek neemt de praktijk en praktische vragen als uitgangspunt en is juist daarom ook interessant voor mensen die in deze praktijk werken. De projecten komen vaak tot stand in samenwerking met bedrijven en dragen bij aan de groei en ontwikkeling van een bepaalde beroepspraktijk (Hogeschool van Amsterdam 27). Naast de geleverde bijdrage aan onderwijs, professionalisering en kennisontwikkeling wordt praktijkgericht onderzoek bij de HvA beoordeeld op de mate waarin het de beroepspraktijk en maatschappij weet te bereiken (O2, 'Indicatoren' 3).</Content>
+    <Content>Deze onderzoeksvraag raakt aan een (relatief nieuwe) kerntaak van hbo-instellingen: onderzoek doen. Dit onderzoek is in grote mate praktijkgericht[^1], wat niet alleen inhoudelijk tot uiting komt, maar ook het publiek van de uitkomsten bepaalt. Dat wil zeggen, het onderzoek neemt de praktijk en praktische vragen als uitgangspunt en is juist daarom ook interessant voor mensen die in deze praktijk werken. De projecten komen vaak tot stand in samenwerking met bedrijven en dragen bij aan de groei en ontwikkeling van een bepaalde beroepspraktijk (Hogeschool van Amsterdam 27). Naast de geleverde bijdrage aan onderwijs, professionalisering en kennisontwikkeling wordt praktijkgericht onderzoek bij de HvA beoordeeld op de mate waarin het de beroepspraktijk en maatschappij weet te bereiken (O2, 'Indicatoren' 3).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -568,7 +554,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-25" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://amsterdamcreativeindustries.com/over</Content>
+            <Content>hier</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -668,15 +654,15 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-26" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.digitallifecentre.nl/</Content>
+            <Content>Digital Life Center</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> en </Content>
+          <Content> en het </Content>
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-27" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://medialab.hva.nl/</Content>
+            <Content>MediaLAB</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1159,7 +1145,7 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-28" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access</Content>
+            <Content>hier</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -1167,9 +1153,12 @@
         </CharacterStyleRange>
         <HyperlinkTextSource Self="htss-29" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/.</Content>
+            <Content>hier</Content>
           </CharacterStyleRange>
-        </HyperlinkTextSource><Br />
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
+        </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
   </CharacterStyleRange>
@@ -1392,7 +1381,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Zie http://www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html.</Content>
+          <Content>Zie </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>hier</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1423,15 +1420,15 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Surf Space is de ‘online community over ICT-innovatie vóór en dóór professionals in het hoger onderwijs en onderzoek’ van SURF (</Content>
+          <Content>Surf Space is de ‘online community over ICT-innovatie vóór en dóór professionals in het hoger onderwijs en onderzoek’ van </Content>
         </CharacterStyleRange>
-        <HyperlinkTextSource Self="htss-30" Name="" Hidden="false">
+        <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
           <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-            <Content>https://www.surfspace.nl/over-surfspace/</Content>
+            <Content>SURF</Content>
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>).</Content>
+          <Content>. </Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -1502,7 +1499,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Aan de Brugh, Marcel. “</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-31" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>De Chaos van Open Access.</Content>
     </CharacterStyleRange>
@@ -1590,13 +1587,21 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. &quot;Wat is Open Access.&quot; </Content>
+    <Content>Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. &quot;</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Wat is Open Access.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&quot; </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Open Access.nl.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Web. 9 December 2015. &lt;http://www.openaccess.nl/nl/wat-is-open-access&gt;.</Content>
+    <Content> Web. 9 December 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1612,13 +1617,21 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Ministerie van Onderwijs, Cultuur en Wetenschap. &quot;Kabinetsplannen Wetenschap 2015-2025.&quot; </Content>
+    <Content>Ministerie van Onderwijs, Cultuur en Wetenschap. &quot;</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Kabinetsplannen Wetenschap 2015-2025.</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&quot; </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Rijksoverheid.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Web. 13 December 2015. &lt;https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025&gt;.</Content>
+    <Content> Web. 13 December 2015.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1691,7 +1704,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Snijders, Raymond. “</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-32" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-35" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Over Big Deals, Open Access en de onderhandelingen tussen Elsevier en de universiteiten.</Content>
     </CharacterStyleRange>
@@ -1710,7 +1723,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>SURFfoundation. “</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-33" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-36" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Kennis van én voor de praktijk.</Content>
     </CharacterStyleRange>
@@ -1740,7 +1753,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Van den Bosch, Herman. “</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-34" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-37" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Weg met de Publicatie.</Content>
     </CharacterStyleRange>
@@ -2407,7 +2420,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>6. Ik schrijf / maak voornamelijk publicaties met: </Content>
+    <Content>6. Ik schrijf / maak voornamelijk publicaties met:</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
@@ -2528,11 +2541,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>white paper syudiemateriaal voor studenten, colleges</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>&#x2028;</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
@@ -3290,48 +3298,79 @@
     <Content>gelezen in de medie</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Voetnoten</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> [^1]: Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van Amsterdam (27-32). De Vereniging van Hogescholen gebruikt 'praktijkgericht onderzoek' als verzamelterm voor onderzoek in het HBO (4). Uit eigen beschrijvingen van onderzoekers zal blijken dat vaak zelf ook hun onderzoek als praktijkgericht zouden omschrijven, maar niet in alle gevallen.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surfspace.nl/column/109-weg-met-de-publicatie/" Name="link" DestinationURL="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-34" Name="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" Source="htss-34" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-37" Name="https://www.surfspace.nl/column/109-weg-met-de-publicatie/" Source="htss-37" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surfspace.nl/column/109-weg-met-de-publicatie/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Name="link" DestinationURL="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-33" Name="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Source="htss-33" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-36" Name="https://www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf" Source="htss-36" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surf.nl/binaries/content/assets/surf/nl/kennisbank/2010/Kennis+van+en+voor+de+praktijk_artikelAad_SHAREprojecten_DEF.pdf</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Name="link" DestinationURL="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-32" Name="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Source="htss-32" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-35" Name="http://rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/" Source="htss-35" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//rsnijders.info/vakblog/2014/11/04/big-deals-open-access-elsevier/</Destination>
     </Properties>
   </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025" Name="link" DestinationURL="https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-34" Name="https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025" Source="htss-34" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.openaccess.nl/nl/wat-is-open-access" Name="link" DestinationURL="http://www.openaccess.nl/nl/wat-is-open-access" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-33" Name="http://www.openaccess.nl/nl/wat-is-open-access" Source="htss-33" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.openaccess.nl/nl/wat-is-open-access</Destination>
+    </Properties>
+  </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Name="link" DestinationURL="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-31" Name="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Source="htss-31" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-32" Name="http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804" Source="htss-32" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.surfspace.nl/over-surfspace/" Name="link" DestinationURL="https://www.surfspace.nl/over-surfspace/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-30" Name="https://www.surfspace.nl/over-surfspace/" Source="htss-30" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-31" Name="https://www.surfspace.nl/over-surfspace/" Source="htss-31" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//www.surfspace.nl/over-surfspace/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." Name="link" DestinationURL="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-29" Name="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/." Source="htss-29" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html" Name="link" DestinationURL="http://www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-30" Name="http://www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html" Source="htss-30" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/.</Destination>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/" Name="link" DestinationURL="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-29" Name="http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/" Source="htss-29" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" Name="link" DestinationURL="http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access" DestinationUniqueKey="1" />
