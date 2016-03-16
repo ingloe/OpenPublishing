@@ -19,12 +19,12 @@ Rights: CC BY-NC 4.0
 
 #<span style="font-variant:small-caps;">VAN PRAKTIJKGERICHT ONDERZOEK NAAR DE PRAKTIJK VAN DE PROFESSIONAL</span>
 
-Door: Inte Gloerich, <i.gloerich@hva.nl>
+<span id="infobox">Door: Inte Gloerich, <i.gloerich@hva.nl>
 
 Onder begeleiding van: Hilde van Wijngaarden
 
 16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
-Hogeschool van Amsterdam
+Hogeschool van Amsterdam</span>
 
 ## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span><span id="managementsamenvatting"></span>Managementsamenvatting
 
@@ -95,7 +95,7 @@ worden met het volgende:
     algemene, inzetbare kennis.
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
-
+<span id="toc">
 ## [Managementsamenvatting](#managmentsamenvatting)
 
 ### [Aanbevelingen](#_Toc315529322)
@@ -139,6 +139,7 @@ worden met het volgende:
 ### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
 
 ### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
+</span>
 
 ## <span id="ch01-00"></span>1. Inleiding
 
@@ -283,7 +284,7 @@ kennistransferavonden, meet-ups en workshops met een publiek van
 professionals.[^10]
 
 ![](imgs/publicatievormenvanCREATEITACIN-01.png)
-*De antwoorden op één van de vragen die in de enquête aan onderzoekers gesteld zijn.*
+<span class="caption">*De antwoorden op één van de vragen die in de enquête aan onderzoekers gesteld zijn.*</span>
 
 ### <span id="_Toc311709035" class="anchor"><span id="_Toc317258200" class="anchor"></span></span><span id="ch02-04"></span>2.4 Openheid van resultaten
 
@@ -388,7 +389,7 @@ meten zoals hierboven is aangehaald.
                                                                                   Erkenning               Derdegeldstroom gefinancierde projecten
                                                                                                           Media-uitingen	
 
-*Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)*
+<span class="caption">*Uitsnede uit de tabel op pagina 3-5 van Format en Toelichting bij de HvA Indicatoren voor Praktijkgericht Onderzoek (O2)*</span>
 
 Eppo Bruins benadrukt in het rapport ‘Waardeloos’ van de Landelijke
 Commissie Valorisatie[^13] dat indicatoren een manier zijn om de
@@ -570,8 +571,8 @@ gebruiker daadwerkelijk geïnteresseerd is kan deze op eigen initiatief
 doorklikken naar diepere, meer genuanceerde lagen (Van den Bosch).
 
 ![](imgs/VanDenBosch_piramide-van-oorspronkelijkheid.jpg)
-*Gelaagde publicatie zoals voorgesteld door Herman van den Bosch. Bron
-van figuur: Van den Bosch, 2015.*
+<span class="caption">*Gelaagde publicatie zoals voorgesteld door Herman van den Bosch. Bron
+van figuur: Van den Bosch, 2015.*</span>
 
 Zoals de professionals aangeven hoeft de traditionele vorm van
 onderzoekspublicaties niet te verdwijnen. Het wordt zelfs op prijs
@@ -642,17 +643,15 @@ Amsterdam.* 24 Juni 2015.
 Jonge Akademie, De. *Kennis over Publiceren.* Ed. Jeroen Salman,
 Maarten Kleinhans en Dolf Weijers, 2012.
 
-Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. "Wat is
-Open Access." *Open Access.nl.* Web. 9 December 2015.
-&lt;http://www.openaccess.nl/nl/wat-is-open-access&gt;.
+Kremers, Gonny, Alice Doek, Saskia Franken en Just de Leeuwe. "[Wat is
+Open Access.](http://www.openaccess.nl/nl/wat-is-open-access)" *Open Access.nl.* Web. 9 December 2015.
 
 Landelijke Commissie Valorisatie. *Waardevol. Indicatoren voor
 Valorisatie.* Rathenau Instituut: Den Haag en Technologiestichting
 STW: Utrecht, 2011.
 
-Ministerie van Onderwijs, Cultuur en Wetenschap. "Kabinetsplannen
-Wetenschap 2015-2025." *Rijksoverheid.* Web. 13 December 2015.
-&lt;https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025&gt;.
+Ministerie van Onderwijs, Cultuur en Wetenschap. "[Kabinetsplannen
+Wetenschap 2015-2025.](https://www.rijksoverheid.nl/onderwerpen/wetenschap/inhoud/kabinetsplannen-wetenschap-2015-2025)" *Rijksoverheid.* Web. 13 December 2015.
 
 Nationaal Regieorgaan Praktijkgericht Onderzoek SIA. "Call for
 Proposals. RAAK-mkb." *Nationaal Regieorgaan Praktijkgericht Onderzoek
@@ -885,7 +884,7 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
 
 6.  deels open access, deels via betaalde journals
 
-**6. Ik schrijf / maak voornamelijk publicaties met: **
+**6. Ik schrijf / maak voornamelijk publicaties met:**
 
 > 52,6% Professionals als doelgroep
 >
@@ -940,8 +939,6 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
     bedrijven
 
 2.  white paper syudiemateriaal voor studenten, colleges
-
-### \
 
 ### 7.3 Bijlage 3: Uitkomsten enquete met event professionals
 
@@ -1294,6 +1291,8 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
 
 1.  gelezen in de medie
 
+## Voetnoten
+<span id="voetnoten">
 [^1]: Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in
     rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van
     Amsterdam (27-32). De Vereniging van Hogescholen gebruikt
@@ -1309,8 +1308,7 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
 [^3]: Zie bijlage 1 voor een overzicht.
 
 [^4]: Het ACIN geeft een soortgelijke beschrijving van het vakgebied
-    waar de labs zich op richten, zie
-    <http://amsterdamcreativeindustries.com/over>.
+    waar de labs zich op richten, zie [hier](http://amsterdamcreativeindustries.com/over).
 
 [^5]: Lectoraten en labs worden in dit rapport samengenomen on de term
     onderzoeksgroepen.
@@ -1327,8 +1325,7 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
     Lectoraat Fashion Research & Technology, zie
     http://www.hva.nl/create-it/gedeelde-content/projecten/projecten-fashion/gebruikersbetrokkenheid-bij-ontwerp.html.
 
-[^8]: Zoals <http://www.digitallifecentre.nl/> en
-    <http://medialab.hva.nl/>.
+[^8]: Zoals [Digital Life Center](http://www.digitallifecentre.nl/) en het [MediaLAB](http://medialab.hva.nl/).
 
 [^9]: GitHub is een veelgebruikte online tool waar programmeurs samen
     aan code werken en dit openlijk delen met iedereen. Geïnteresseerden
@@ -1351,11 +1348,9 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
     bedrijvigheid' (Landelijke Commissie Valorisatie 11).
 
 [^14]: Al in 2009 ondertekende de hbo-raad de Berlin Declaration on Open
-    Access, zie
-    <http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access>.
+    Access, zie [hier](http://www.vereniginghogescholen.nl/onderzoek/566-hbo-raad-ondertekent-berlin-declaration-on-open-access).
     Ook in 2011 presenteert de Vereniging Hogescholen Open Access als de
-    weg naar de toekomst, zie
-    <http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/.>
+    weg naar de toekomst, zie [hier](http://www.vereniginghogescholen.nl/publicaties-en-verenigingsafspraken/lectoren-en-lectoraten-hogescholen-1/forum-voor-praktijkgericht-onderzoek-1/).
 
 [^15]: Op openaccess.nl staat bijvoorbeeld te lezen dat ‘Open access een
     brede internationale academische beweging \[is\] die streeft naar
@@ -1387,9 +1382,8 @@ De categorie 'Anders' bestaat uit de volgende antwoorden:
     het bedrijf dat dit soort algemene conclusies in het belang van de
     gehele sector openbaar gemaakt mogen worden.
 
-[^21]: Zie
-    http://www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html.
+[^21]: Zie [hier](http://www.hva.nl/onderwijs/themas/content/nl/ict/onderzoek/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/lectoraten-en-onderzoeksprogrammas/content/folder-4/lectoraat-crossmedia/publicaties--tools/facetnav-list/hippo%3Aresultset/e-scape-game.html).
 
 [^22]: Surf Space is de ‘online community over ICT-innovatie vóór en
-    dóór professionals in het hoger onderwijs en onderzoek’ van SURF
-    (<https://www.surfspace.nl/over-surfspace/>).
+    dóór professionals in het hoger onderwijs en onderzoek’ van [SURF](https://www.surfspace.nl/over-surfspace/).
+</span>
