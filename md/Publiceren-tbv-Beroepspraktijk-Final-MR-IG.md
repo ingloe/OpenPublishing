@@ -19,11 +19,11 @@ Rights: CC BY-NC 4.0
 
 #<span style="font-variant:small-caps;">VAN PRAKTIJKGERICHT ONDERZOEK NAAR DE PRAKTIJK VAN DE PROFESSIONAL</span>
 
-<span id="infobox">Door: Inte Gloerich, <i.gloerich@hva.nl>
+<span class="infobox">Door: Inte Gloerich, <i.gloerich@hva.nl></span>
 
-Onder begeleiding van: Hilde van Wijngaarden
+<span class="infobox">Onder begeleiding van: Hilde van Wijngaarden</span>
 
-16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
+<span class="infobox">16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
 Hogeschool van Amsterdam</span>
 
 ## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span><span id="managementsamenvatting"></span>Managementsamenvatting
