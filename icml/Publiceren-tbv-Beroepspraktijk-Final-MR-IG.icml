@@ -1825,8 +1825,11 @@
     <Content>Stromen van Kennis Tussen Hogescholen en Praktijk.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> SURFfoundation: Utrecht, 2011. </Content>
+    <Content> SURFfoundation: Utrecht, 2011.</Content>
   </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
