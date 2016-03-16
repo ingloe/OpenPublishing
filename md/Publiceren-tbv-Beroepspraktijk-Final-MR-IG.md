@@ -19,12 +19,12 @@ Rights: CC BY-NC 4.0
 
 #<span style="font-variant:small-caps;">VAN PRAKTIJKGERICHT ONDERZOEK NAAR DE PRAKTIJK VAN DE PROFESSIONAL</span>
 
-<span class="infobox">Door: Inte Gloerich, <i.gloerich@hva.nl></span>
+<div class="infobox">Door: Inte Gloerich, <i.gloerich@hva.nl>
 
-<span class="infobox">Onder begeleiding van: Hilde van Wijngaarden</span>
+Onder begeleiding van: Hilde van Wijngaarden
 
-<span class="infobox">16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
-Hogeschool van Amsterdam</span>
+16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
+Hogeschool van Amsterdam</div>
 
 ## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span><span id="managementsamenvatting"></span>Managementsamenvatting
 
@@ -95,7 +95,7 @@ worden met het volgende:
     algemene, inzetbare kennis.
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
-<span id="toc">
+<div id="toc">
 ## [Managementsamenvatting](#managmentsamenvatting)
 
 ### [Aanbevelingen](#_Toc315529322)
@@ -139,7 +139,7 @@ worden met het volgende:
 ### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
 
 ### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
-</span>
+</div>
 
 ## <span id="ch01-00"></span>1. Inleiding
 
