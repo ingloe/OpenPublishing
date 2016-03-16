@@ -616,7 +616,7 @@ vaak deze geciteerd wordt.
 
 ## <span id="ch06-00"></span>6. Bibliografie
 
-<span id="bibliography"></span>Aan de Brugh, Marcel. “[De Chaos van Open Access.](http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804)” *NRC.* NRC Media, 10 Januari 2015. Web. 19 Oktober 2015.
+<div id="bibliography"></span>Aan de Brugh, Marcel. “[De Chaos van Open Access.](http://www.nrc.nl/handelsblad/2015/01/10/de-chaos-van-open-access-1454804)” *NRC.* NRC Media, 10 Januari 2015. Web. 19 Oktober 2015.
 
 Bierens, Gerard en Desirée van den Bergh. "HBO Kennisbank, Onmisbare
 Schakel 2.0." In: *Stromen van Kennis Tussen Hogescholen en Praktijk.*
@@ -707,7 +707,7 @@ Vereniging Hogescholen. "Brancheprotocol Kwaliteitszorg Onderzoek
 
 Wolters, Pia en Lianne van Elk. "Open Output - Sluitend Systeem." In:
 *Stromen van Kennis Tussen Hogescholen en Praktijk.* SURFfoundation:
-Utrecht, 2011.</span>
+Utrecht, 2011.</div>
 
 ## <span id="_Toc311709048" class="anchor"><span id="_Toc314908893" class="anchor"><span id="_Toc317258210" class="anchor"></span></span></span><span id="ch07-00"></span>7. Bijlages
 
