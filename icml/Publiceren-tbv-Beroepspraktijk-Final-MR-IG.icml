@@ -44,6 +44,11 @@
           </TabList>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/" Name="" LeftIndent="0">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/Blockquote &gt; Paragraph" Name="Blockquote &gt; Paragraph" LeftIndent="10">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -165,7 +170,7 @@
     <Content>Onder begeleiding van: Hilde van Wijngaarden</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>16 Februari 2016, </Content>
   </CharacterStyleRange>
@@ -248,10 +253,7 @@
     <Content>Inhoud</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> ## </Content>
-  </CharacterStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Managementsamenvatting</Content>
@@ -404,9 +406,6 @@
       <Content>7.3 Bijlage 3: Uitkomsten enquete met event professionals</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
