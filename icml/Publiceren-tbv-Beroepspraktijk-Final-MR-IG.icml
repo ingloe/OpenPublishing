@@ -429,7 +429,27 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Deze onderzoeksvraag raakt aan een (relatief nieuwe) kerntaak van hbo-instellingen: onderzoek doen. Dit onderzoek is in grote mate praktijkgericht[^1], wat niet alleen inhoudelijk tot uiting komt, maar ook het publiek van de uitkomsten bepaalt. Dat wil zeggen, het onderzoek neemt de praktijk en praktische vragen als uitgangspunt en is juist daarom ook interessant voor mensen die in deze praktijk werken. De projecten komen vaak tot stand in samenwerking met bedrijven en dragen bij aan de groei en ontwikkeling van een bepaalde beroepspraktijk (Hogeschool van Amsterdam 27). Naast de geleverde bijdrage aan onderwijs, professionalisering en kennisontwikkeling wordt praktijkgericht onderzoek bij de HvA beoordeeld op de mate waarin het de beroepspraktijk en maatschappij weet te bereiken (O2, 'Indicatoren' 3).</Content>
+    <Content>Deze onderzoeksvraag raakt aan een (relatief nieuwe) kerntaak van hbo-instellingen: onderzoek doen. Dit onderzoek is in grote mate praktijkgericht</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
+    <Footnote>
+      <ParagraphStyleRange>
+        <CharacterStyleRange>
+          <Content><?ACE 4?></Content>
+        </CharacterStyleRange>
+      </ParagraphStyleRange>
+      <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Footnote &gt; Paragraph">
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>	</Content>
+        </CharacterStyleRange>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van Amsterdam (27-32). De Vereniging van Hogescholen gebruikt 'praktijkgericht onderzoek' als verzamelterm voor onderzoek in het HBO (4). Uit eigen beschrijvingen van onderzoekers zal blijken dat vaak zelf ook hun onderzoek als praktijkgericht zouden omschrijven, maar niet in alle gevallen.</Content>
+        </CharacterStyleRange><Br />
+      </ParagraphStyleRange>
+    </Footnote>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, wat niet alleen inhoudelijk tot uiting komt, maar ook het publiek van de uitkomsten bepaalt. Dat wil zeggen, het onderzoek neemt de praktijk en praktische vragen als uitgangspunt en is juist daarom ook interessant voor mensen die in deze praktijk werken. De projecten komen vaak tot stand in samenwerking met bedrijven en dragen bij aan de groei en ontwikkeling van een bepaalde beroepspraktijk (Hogeschool van Amsterdam 27). Naast de geleverde bijdrage aan onderwijs, professionalisering en kennisontwikkeling wordt praktijkgericht onderzoek bij de HvA beoordeeld op de mate waarin het de beroepspraktijk en maatschappij weet te bereiken (O2, 'Indicatoren' 3).</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1427,7 +1447,7 @@
           </CharacterStyleRange>
         </HyperlinkTextSource>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>. </Content>
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -3300,11 +3320,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Voetnoten</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> [^1]: Zie bijvoorbeeld beschrijvingen van het onderzoek bij DMCI in rapporten van Onderwijs en Onderzoek /O2 (3) en Hogeschool van Amsterdam (27-32). De Vereniging van Hogescholen gebruikt 'praktijkgericht onderzoek' als verzamelterm voor onderzoek in het HBO (4). Uit eigen beschrijvingen van onderzoekers zal blijken dat vaak zelf ook hun onderzoek als praktijkgericht zouden omschrijven, maar niet in alle gevallen.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 
