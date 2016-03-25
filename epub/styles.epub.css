@@ -262,7 +262,7 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 }
 
 .caption {
-    font-size: 0.8em;
+    font-size: 1em;
     text-align: center;
     font-family: 'OpenSans-LightItalic';
 }
@@ -314,7 +314,7 @@ table {
     border: 1px #ffe100 solid;
     border-collapse: collapse;
     vertical-align: top;
-    font-size: 0.5em;
+    font-size: 0.8em;
     page-break-inside: avoid;
 }
 
@@ -336,8 +336,8 @@ table .header {
 }
 
 table+p, figure+p {
-    text-align: right;
-    font-size: 0.5em;
+    text-align: left;
+    font-size: 0.8em;
     font-family: 'VAGRoundedStd-Bold';
 }
 
