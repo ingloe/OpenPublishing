@@ -205,7 +205,7 @@ ul {
 
 section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
     font-size:1.8em;
-    color: #d2a8d4;
+    color: #ffe100;
 }
 
 /* Images with pink backgorund at the start of chapters:
@@ -260,19 +260,19 @@ table {
 }
 
 table th {
-    border-bottom: 1px #d2a8d4 solid;
+    border-bottom: 1px #ffe100 solid;
 }
 
 table th, td {
-    border-left: 1px #d2a8d4 solid;
-    border-right: 1px #d2a8d4 solid;
+    border-left: 1px #ffe100 solid;
+    border-right: 1px #ffe100 solid;
 }
 
 th, td {
     padding: 0.5em;
 }
 table .header {
-    color: #d2a8d4;
+    color: #ffe100;
     font-family: 'VAGRoundedStd-Bold';
 }
 
