@@ -100,6 +100,16 @@
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
         </Properties>
       </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header4" Name="Header4" LeftIndent="0" PointSize="18">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
+      <ParagraphStyle Self="ParagraphStyle/Header5" Name="Header5" LeftIndent="0" PointSize="14">
+        <Properties>
+          <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
+        </Properties>
+      </ParagraphStyle>
       <ParagraphStyle Self="ParagraphStyle/NumList &gt; Paragraph" Name="NumList &gt; Paragraph" NumberingExpression="^#.^t" NumberingLevel="1" BulletsAndNumberingListType="NumberedList" LeftIndent="0">
         <Properties>
           <BasedOn type="object">$ID/NormalParagraphStyle</BasedOn>
@@ -253,154 +263,154 @@
     <Content>Inhoud</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Managementsamenvatting</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Aanbevelingen</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Inhoud</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>1. Inleiding</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2. Praktijkgericht onderzoek in het HBO, en bij de HvA in het bijzonder</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2.1 Het praktijkgericht onderzoek in Nederland</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2.2 De situatie bij CREATE-IT en ACIN</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-10" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2.3 Doelgroep en vorm van publicaties</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-11" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2.4 Openheid van resultaten</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-12" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>2.5 Verschillen binnen onderzoek</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-13" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>3. Theoretisch kader: impact meten en openheid van resultaten</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-14" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-15" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-16" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>4.1 Vindbaarheid</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-17" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>4.2 Inzetbaarheid</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-18" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>4.3 Consequenties voor publicatie</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-19" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>5. Conclusie</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-20" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>6. Bibliografie</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <HyperlinkTextSource Self="htss-21" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>7. Bijlages</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-22" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-23" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>7.2 Bijlage 2: Uitkomsten enquête met onderzoekers</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header5">
   <HyperlinkTextSource Self="htss-24" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>7.3 Bijlage 3: Uitkomsten enquete met event professionals</Content>
