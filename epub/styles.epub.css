@@ -74,12 +74,14 @@ h1,h2,h3,h4{
 }
 
 h1{
-    font-size:1.8em;
+    font-size:1.4em;
+    text-align: center;
     margin-bottom: 0.5em;
-    color: #d2a8d4;
-    border-bottom:5px dotted #d2a8d4;
-    padding-bottom:6px;
+    color: #FFE100;
+    border-bottom:2px #FFE100;
+    padding-bottom:2px;
     page-break-before: always;
+    text-transform: uppercase;
 }
 
 h2{
@@ -180,9 +182,9 @@ a:hover { color: #d2a8d4;
 
 hr {
     height: 0;
-    color: #d2a8d4;
+    color: #FFE100;
     width: 100%;
-    border: dotted 5px;
+    border: 2px;
     border-bottom: none;
     font-size: 3em;
     border-left: none;
