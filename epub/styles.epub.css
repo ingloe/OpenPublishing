@@ -94,12 +94,12 @@ h2{
 }
 
 h3{
-    font-size: 1em;
+    font-size: 0.8em;
     text-transform: capitalize;
 }
 
 h4{
-    font-size: 1em;
+    font-size: 0.8em;
     text-transform: capitalize;
     color: black;
     margin-bottom: 0;
@@ -110,7 +110,8 @@ h5{
     font-size: 1em;
     color: black;
     margin-bottom: 0;
-    margin-top: 0;    
+    margin-top: 0;
+    text-indent: 2em;  
 }
 
 b,strong{
