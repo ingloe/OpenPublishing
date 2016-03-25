@@ -173,12 +173,13 @@ div#cover-image img, img#title, img#end{
     height: auto;
 }
 
-/* content */
+/* images */
 
 img{
     max-width:900px;
 }
 
+/* text styles */
 
 a.footnoteRef {
 vertical-align: super;
@@ -260,9 +261,9 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 }
 
 .caption {
-    font-size: 0.6em;
+    font-size: 0.8em;
     text-align: center;
-    font-style: italic;
+    font-family: 'OpenSans-LightItalic';
 }
 
 /* Images with pink backgorund at the start of chapters:
