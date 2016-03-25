@@ -208,6 +208,11 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
     color: #ffe100;
 }
 
+.infobox {
+    font-size: 0.7em;
+    text-align: center;
+}
+
 /* Images with pink backgorund at the start of chapters:
 
 * add them now below the chapter title
