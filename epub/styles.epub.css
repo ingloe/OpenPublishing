@@ -211,10 +211,15 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 .infobox {
     background-color: #ffe100;
     font-size: 0.7em;
-    text-align: center;
+    text-align: left;
     margin: 0px;
     padding-top: 5px;
     padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.infobox > p {
+    color: white;
 }
 
 /* Images with pink backgorund at the start of chapters:
