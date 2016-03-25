@@ -24,7 +24,7 @@ Rights: CC BY-NC 4.0
 Onder begeleiding van: Hilde van Wijngaarden
 
 <p>16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
-Hogeschool van Amsterdam</div>
+Hogeschool van Amsterdam</p></div>
 
 ------
 
