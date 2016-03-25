@@ -98,49 +98,49 @@ worden met het volgende:
 
 ## <span id="_Toc316740854" class="anchor"><span id="_Toc317258194" class="anchor"></span></span>Inhoud
 
-## [Managementsamenvatting](#managmentsamenvatting)
+#### [Managementsamenvatting](#managmentsamenvatting)
 
-### [Aanbevelingen](#_Toc315529322)
+##### [Aanbevelingen](#_Toc315529322)
 
-## [Inhoud](#_Toc316740854)
+#### [Inhoud](#_Toc316740854)
 
-## [1. Inleiding](#ch01-00)
+#### [1. Inleiding](#ch01-00)
 
-## [2. Praktijkgericht onderzoek in het HBO, en bij de HvA in het bijzonder](#_Toc311709031)
+#### [2. Praktijkgericht onderzoek in het HBO, en bij de HvA in het bijzonder](#_Toc311709031)
 
-### [2.1 Het praktijkgericht onderzoek in Nederland](#_Toc311709032)
+##### [2.1 Het praktijkgericht onderzoek in Nederland](#_Toc311709032)
 
-### [2.2 De situatie bij CREATE-IT en ACIN](#ch02-02)
+##### [2.2 De situatie bij CREATE-IT en ACIN](#ch02-02)
 
-### [2.3 Doelgroep en vorm van publicaties](#ch02-03)
+##### [2.3 Doelgroep en vorm van publicaties](#ch02-03)
 
-### [2.4 Openheid van resultaten](#ch02-04)
+##### [2.4 Openheid van resultaten](#ch02-04)
 
-### [2.5 Verschillen binnen onderzoek](#ch02-05)
+##### [2.5 Verschillen binnen onderzoek](#ch02-05)
 
-## [3. Theoretisch kader: impact meten en openheid van resultaten](#ch03-00)
+#### [3. Theoretisch kader: impact meten en openheid van resultaten](#ch03-00)
 
-### [3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten](#ch03-01)
+##### [3.1 Toegankelijkheid van informatie, niet van onderzoeksresultaten](#ch03-01)
 
-## [4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional](#ch04-00)
+#### [4. Empirisch onderzoek: de informatiebehoefte van de creatieve professional](#ch04-00)
 
-### [4.1 Vindbaarheid](#ch04-01)
+##### [4.1 Vindbaarheid](#ch04-01)
 
-### [4.2 Inzetbaarheid](#ch04-02)
+##### [4.2 Inzetbaarheid](#ch04-02)
 
-### [4.3 Consequenties voor publicatie](#ch04-03)
+##### [4.3 Consequenties voor publicatie](#ch04-03)
 
-## [5. Conclusie](#ch05-00)
+#### [5. Conclusie](#ch05-00)
 
-## [6. Bibliografie](#ch06-00)
+#### [6. Bibliografie](#ch06-00)
 
-## [7. Bijlages](#ch07-00)
+#### [7. Bijlages](#ch07-00)
 
-### [7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN](#ch07-01)
+##### [7.1 Bijlage 1: Labs en Lectoraten van Create-IT en het ACIN](#ch07-01)
 
-### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
+##### [7.2 Bijlage 2: Uitkomsten enquête met onderzoekers](#ch07-02)
 
-### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
+##### [7.3 Bijlage 3: Uitkomsten enquete met event professionals](#ch07-03)
 
 ## <span id="ch01-00"></span>1. Inleiding
 
