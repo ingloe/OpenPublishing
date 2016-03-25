@@ -98,6 +98,21 @@ h3{
     text-transform: capitalize;
 }
 
+h4{
+    font-size: 1em;
+    text-transform: capitalize;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h5{
+    font-size: 1em;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;    
+}
+
 b,strong{
     font-family: 'OpenSans-Semibold';
 }
@@ -186,19 +201,12 @@ a:hover { color: #ffe100;
         text-align: center;
     }
 
-h4{
-    font-size: 1em;
-    text-transform: capitalize;
+h4 a {
     color: black;
-    margin-bottom: 0;
-    margin-top: 0;
 }
 
-h5{
-    font-size: 1em;
+h5 a {
     color: black;
-    margin-bottom: 0;
-    margin-top: 0;    
 }
 
 hr {
