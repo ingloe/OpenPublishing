@@ -90,19 +90,12 @@ h2{
     margin-bottom: 0.5em;
     page-break-before: always;
     color: #ffe100;
+    text-transform: capitalize;
 }
 
 h3{
     font-size: 1em;
     text-transform: capitalize;
-}
-
-h4{
-    font-size: 1em;
-    text-transform: capitalize;
-    color: black;
-    margin-bottom: 0.2em;
-    margin-top: 0.2em;
 }
 
 b,strong{
@@ -192,6 +185,21 @@ a:hover { color: #ffe100;
     .streams p {
         text-align: center;
     }
+
+h4{
+    font-size: 1em;
+    text-transform: capitalize;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h5{
+    font-size: 1em;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;    
+}
 
 hr {
     height: 0;
