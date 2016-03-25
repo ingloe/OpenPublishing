@@ -153,11 +153,11 @@ blockquote{
     margin-bottom: 1.5em;
 }
 
-a { color: #d2a8d4;
+a { color: #ffe100;
     text-decoration: none;
   }
 
-a:hover { color: #d2a8d4;
+a:hover { color: #ffe100;
       text-decoration: underline;
   }
 
@@ -170,7 +170,7 @@ a:hover { color: #d2a8d4;
     text-align: center;
     font-weight: bold;
     font-size: 1em;
-    color: #d2a8d4;
+    color: #ffe100;
     -webkit-hyphens:none;
     hyphens: none;
     page-break-inside: avoid;
@@ -252,7 +252,7 @@ section.footnotes li a {
 }
 
 table {
-    border: 1px #d2a8d4 solid;
+    border: 1px #ffe100 solid;
     border-collapse: collapse;
     vertical-align: top;
     font-size: 0.5em;
@@ -300,7 +300,7 @@ figure {
 }
 
 .RQ::first-line {
-    color: #d2a8d4;
+    color: #ffe100;
     font-family: 'VAGRoundedStd-Bold';
     text-decoration: underline;
     margin-top: 0.8em;
@@ -309,9 +309,9 @@ figure {
 .RQ p {
     font-size: 1em;
     margin-top: 0em;
-    color: #d2a8d4;
+    color: #ffe100;
     }
 
 span {
-    color: #d2a8d4 !important
+    color: #ffe100 !important
 }
