@@ -26,6 +26,8 @@ Onder begeleiding van: Hilde van Wijngaarden
 16 Februari 2016, [PublishingLab](http://www.publishinglab.nl/),
 Hogeschool van Amsterdam</div>
 
+------
+
 ## <span id="_Toc315529321" class="anchor"><span id="_Toc316740852" class="anchor"><span id="_Toc317258192" class="anchor"></span></span></span><span id="managementsamenvatting"></span>Managementsamenvatting
 
 De wereld van academisch publiceren is de afgelopen jaren onder invloed
