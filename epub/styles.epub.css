@@ -77,8 +77,8 @@ h1{
     font-size:1.4em;
     text-align: center;
     margin-bottom: 0.5em;
-    color: #FFE100;
-    border-bottom:2px #FFE100;
+    color: #ffe100;
+    border-bottom:5px #ffe100;
     padding-bottom:2px;
     page-break-before: always;
     text-transform: uppercase;
@@ -182,9 +182,9 @@ a:hover { color: #d2a8d4;
 
 hr {
     height: 0;
-    color: #FFE100;
+    color: #ffe100;
     width: 100%;
-    border: 2px;
+    border: 5px;
     border-bottom: none;
     font-size: 3em;
     border-left: none;
