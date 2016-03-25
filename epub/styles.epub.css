@@ -103,7 +103,7 @@ h4{
     text-transform: capitalize;
     color: black;
     margin-bottom: 0;
-    margin-top: 0;
+    margin-top: 0.5em;
 }
 
 h5{
@@ -111,7 +111,8 @@ h5{
     color: black;
     margin-bottom: 0;
     margin-top: 0;
-    text-indent: 1.5em;  
+    text-indent: 1.5em;
+    font-family: 'OpenSans-Semibold';
 }
 
 b,strong{
