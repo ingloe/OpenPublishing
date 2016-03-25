@@ -104,6 +104,8 @@ h4{
     color: black;
     margin-bottom: 0;
     margin-top: 0.5em;
+    font-family: 'OpenSans-Semibold';
+
 }
 
 h5{
@@ -112,7 +114,6 @@ h5{
     margin-bottom: 0;
     margin-top: 0;
     text-indent: 1.5em;
-    font-family: 'OpenSans-Semibold';
 }
 
 b,strong{
@@ -137,6 +138,10 @@ p {
 ul, ol, dl {
     margin: 1em 0 1em 0;
     text-align: left;
+}
+
+ol {
+    font-size: 0.8em;
 }
 
 section.footnotes{
@@ -240,12 +245,18 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 }
 
 .infobox {
-    font-size: 0.7em;
+    font-size: 0.8em;
     text-align: center;
     margin: 0px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
+}
+
+.caption {
+    font-size: 0.6em;
+    text-align: center;
+    font-style: italic;
 }
 
 /* Images with pink backgorund at the start of chapters:
