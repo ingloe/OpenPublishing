@@ -205,7 +205,7 @@ a:hover { color: #ffe100;
   }
 
     div.streams{
-    font-family: VAGRoundedStd-Bold;
+    font-family: 'VAGRoundedStd-Bold';
     width: 70%;
     min-width: 10em;
     margin-left: auto;
@@ -377,5 +377,9 @@ figure {
     }
 
 span {
-    color: #ffe100 !important
+    color: #ffe100 !important;
+}
+
+.caption em {
+    color: black !important;
 }
