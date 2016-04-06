@@ -3,12 +3,13 @@ Pr-id: Open Publishing
 P-id: PublishingLab article
 A-id: 1
 Type: article
+Title: Van Praktijkgericht Onderzoek naar de Praktijk van de Professional
 Book-type: article
 Anthology item: article
 Item-id: 1
 Article-title: Van praktijkgericht onderzoek naar de praktijk van de professional
 Article-status: accepted
-Author: Inte Gloerich
+Authors: Inte Gloerich
 Author-email:   i.gloerich@hva.nl
 Author-bio:  x
 Abstract:   Hoe kan praktijkgericht onderzoek de professional beter bereiken?
