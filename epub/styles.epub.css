@@ -197,6 +197,7 @@ blockquote{
 
 a { color: #ffe100;
     text-decoration: none;
+    font-family: 'OpenSans-Semibold';
   }
 
 a:hover { color: #ffe100;
