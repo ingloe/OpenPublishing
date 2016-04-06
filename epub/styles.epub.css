@@ -127,7 +127,7 @@ p.italic {
 }
 
 figcaption{
-        font-family: VAGRoundedStd-Bold;
+    font-family: 'OpenSans-Semibold';
     font-size:0.8em;
 }
 
@@ -264,7 +264,7 @@ section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in
 .caption {
     font-size: 1em;
     text-align: center;
-    font-family: 'OpenSans-LightItalic';
+    font-family: 'OpenSans-Semibold';
 }
 
 p em {
